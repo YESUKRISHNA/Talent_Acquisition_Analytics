@@ -1,0 +1,1185 @@
+Candidate_ID,Name,Role,Department,Stage,Offer_Status,Joining_Status,Application_Date,Offer_Date,Joining_Date,Salary,Experience,Recruiter
+1,Krishna Jain,Manager,Software Development,Screening,Offered,Not Joined,24-01-2020,,,60495,5,Suman Singh
+2,Ira Khan,Coordinator,Finance,Screening,Rejected,Joined,23-04-2024,04-06-2024,,85392,0,Suman Singh
+3,Vihaan Gupta,Executive,Software Development,Final Round,Rejected,Not Joined,07-03-2022,25-04-2022,17-05-2022,100284,9,Pawan Soni
+4,Meera Deshmukh,Specialist,Software Development,Hired,Offered,Joined,18-02-2023,09-03-2023,02-05-2023,40458,10,Yash Pal
+5,Aarohi Kapoor,Specialist,Finance,Hired,Offered,Joined,09-07-2020,08-08-2020,,125568,2,Yash Pal
+6,Meera Pillai,Coordinator,Marketing,Final Round,Offered,Joined,13-08-2021,31-08-2021,30-10-2021,82581,10,Suman Singh
+7,Ananya Chopra,Technician,Support,Screening,Rejected,Joined,19-04-2020,15-06-2020,,103579,7,Rahul Kumar
+8,Krishna Jain,Consultant,Software Development,Hired,Offered,Joined,19-07-2024,,,119192,8,Gourav Prajapati
+9,Myra Reddy,Analyst,Software Development,Hired,Offered,Not Joined,13-02-2024,09-03-2024,,68469,3,Shivam Pandey
+10,Anvi Agarwal,Consultant,QA and Testing,Hired,Offered,Not Joined,01-08-2021,17-09-2021,13-11-2021,56071,9,Pawan Soni
+11,Anaya Sharma,Administrator,QA and Testing,Final Round,Offered,Joined,18-03-2022,07-05-2022,06-07-2022,139008,6,Rahul Kumar
+12,AdITya Gupta,Technician,Human Resources,Hired,Offered,Joined,08-01-2021,06-03-2021,12-04-2021,51643,9,Rahul Kumar
+13,Ira Chopra,Analyst,Software Development,Screening,Rejected,Not Joined,14-10-2024,28-10-2024,,62493,0,Shiksha Sharma
+14,Krishna Naidu,Coordinator,Software Development,Hired,Offered,Joined,01-06-2020,,,73309,6,Adarsh Mishra
+15,Reyansh Pillai,Developer,Software Development,Screening,Rejected,Joined,09-04-2024,22-05-2024,23-06-2024,54957,4,Pawan Soni
+16,Navya Siddiqui,Engineer,Support,Screening,Offered,Joined,14-11-2020,07-12-2020,,142941,10,Suman Singh
+17,Arjun Khan,Developer,Support,Final Round,Offered,Joined,07-04-2021,12-05-2021,10-06-2021,102132,1,Rahul Kumar
+18,AdITya Iyer,Developer,QA and Testing,Final Round,Rejected,Joined,18-11-2020,11-01-2021,12-01-2021,51579,1,Rahul Kumar
+19,Myra Kulkarni,Executive,QA and Testing,Screening,Rejected,Joined,09-07-2020,,,37665,4,Suman Singh
+20,Anaya Reddy,Developer,Software Development,Screening,Offered,Joined,02-01-2022,,,142960,6,Yash Pal
+21,Vanya Verma,Administrator,Software Development,Final Round,Rejected,Not Joined,19-02-2023,07-03-2023,14-04-2023,61285,2,Suman Singh
+22,Myra Patel,Manager,QA and Testing,Final Round,Offered,Joined,22-03-2023,03-05-2023,23-05-2023,47361,3,Suman Singh
+23,Myra Pillai,Analyst,Human Resources,Screening,Offered,Not Joined,12-04-2020,01-05-2020,,145097,8,Adarsh Mishra
+24,Arjun Agarwal,Analyst,QA and Testing,Hired,Offered,Joined,04-02-2022,24-03-2022,29-04-2022,96244,2,Pawan Soni
+25,Ishaan Verma,Engineer,Software Development,Hired,Offered,Joined,03-01-2022,13-02-2022,13-03-2022,86057,10,Suman Singh
+26,Ira Verma,Specialist,Training,Screening,Offered,Not Joined,23-02-2020,,,147831,0,Rahul Kumar
+27,Vihaan Chatterjee,Consultant,QA and Testing,Final Round,Offered,Joined,22-04-2022,08-05-2022,20-06-2022,136269,9,Pawan Soni
+28,Ananya Khan,Coordinator,Marketing,Hired,Offered,Not Joined,06-01-2023,23-02-2023,24-04-2023,59154,7,Adarsh Mishra
+29,Krishna Iyer,Engineer,Software Development,Hired,Offered,Not Joined,10-06-2023,02-08-2023,,131361,1,Shiksha Sharma
+30,Ira Patel,Engineer,QA and Testing,Final Round,Offered,Not Joined,17-11-2022,,26-01-2023,75309,0,Pawan Soni
+31,Prisha Chopra,Analyst,Human Resources,Screening,Rejected,Joined,17-10-2023,25-10-2023,19-11-2023,120027,0,Suman Singh
+32,Ananya Deshmukh,Specialist,Support,Hired,Offered,Not Joined,03-07-2022,15-08-2022,,121384,8,Rahul Kumar
+33,Siya Pandey,Developer,Training,Screening,Rejected,Not Joined,07-03-2024,03-04-2024,,67606,8,Suman Singh
+34,Myra Siddiqui,Technician,Marketing,Hired,Offered,Joined,20-10-2023,01-12-2023,,117012,9,Rahul Kumar
+35,Reyansh Jain,Engineer,Human Resources,Hired,Offered,Joined,22-04-2020,12-05-2020,27-05-2020,105454,8,Rahul Kumar
+36,Meera Sharma,Manager,Software Development,Final Round,Offered,Joined,13-08-2023,29-08-2023,08-09-2023,90889,9,Pratap Mishra
+37,Arjun Siddiqui,Consultant,Software Development,Screening,Rejected,Not Joined,28-04-2024,06-05-2024,05-06-2024,96162,0,Suman Singh
+38,Aadhya Siddiqui,Analyst,Finance,Hired,Offered,Not Joined,06-08-2024,23-09-2024,,40155,10,Suman Singh
+39,Ira Gupta,Developer,Software Development,Hired,Offered,Joined,11-05-2021,01-06-2021,,83424,9,Suman Singh
+40,Navya Bose,Administrator,Marketing,Hired,Offered,Not Joined,14-08-2024,,,128759,1,Adarsh Mishra
+41,Vanya Iyer,Technician,Software Development,Final Round,Rejected,Not Joined,24-09-2023,,,119016,4,Suman Singh
+42,Aarav Bose,Administrator,QA and Testing,Screening,Offered,Joined,05-08-2021,14-09-2021,,90515,5,Suman Singh
+43,Myra Patel,Specialist,QA and Testing,Final Round,Rejected,Not Joined,13-05-2020,03-06-2020,,32540,5,Adarsh Mishra
+44,Meera Verma,Engineer,Software Development,Hired,Offered,Joined,21-04-2022,26-04-2022,,44993,1,Pawan Soni
+45,Sai Deshmukh,Administrator,Support,Screening,Offered,Joined,09-12-2023,28-01-2024,,33365,4,Rahul Kumar
+46,Reyansh Gupta,Administrator,Software Development,Screening,Offered,Joined,13-11-2024,09-12-2024,,119687,9,Shiksha Sharma
+47,Diya Chatterjee,Manager,Human Resources,Screening,Rejected,Joined,12-01-2024,16-02-2024,15-03-2024,43833,6,Shiksha Sharma
+48,Arjun Khan,Developer,Marketing,Screening,Rejected,Not Joined,27-11-2022,27-12-2022,11-02-2023,107656,1,Adarsh Mishra
+49,Ishaan Siddiqui,Coordinator,Software Development,Final Round,Rejected,Not Joined,27-04-2022,,02-07-2022,53834,6,Pawan Soni
+50,Ishaan Deshmukh,Analyst,Marketing,Hired,Offered,Joined,26-06-2021,13-07-2021,,102768,9,Pawan Soni
+51,Aarav Gupta,Analyst,Software Development,Final Round,Offered,Not Joined,23-11-2023,25-12-2023,,102544,9,Pawan Soni
+52,Jiya Siddiqui,Analyst,Software Development,Final Round,Offered,Joined,18-12-2023,09-01-2024,,127370,0,Adarsh Mishra
+53,Anvi Naidu,Consultant,Support,Final Round,Offered,Joined,24-04-2021,25-05-2021,,69618,4,Suman Singh
+54,Ira Kulkarni,Developer,QA and Testing,Final Round,Offered,Joined,09-03-2024,12-03-2024,,87733,4,Suman Singh
+55,Vihaan Gupta,Executive,Support,Hired,Offered,Joined,09-01-2021,,06-04-2021,69824,0,Suman Singh
+56,Vanya Deshmukh,Administrator,Finance,Screening,Rejected,Not Joined,18-02-2021,08-04-2021,,107139,1,Suman Singh
+57,Anvi Mehta,Coordinator,Software Development,Hired,Offered,Joined,20-10-2022,,,39838,4,Shivam Pandey
+58,Aadhya Kulkarni,Engineer,Training,Final Round,Rejected,Not Joined,15-07-2020,,,64675,10,Yash Pal
+59,Arjun Agarwal,Developer,Training,Hired,Offered,Not Joined,18-02-2023,05-03-2023,16-04-2023,67828,3,Suman Singh
+60,Siya Agarwal,Consultant,Support,Final Round,Rejected,Joined,23-08-2020,12-09-2020,27-10-2020,126276,10,Pawan Soni
+61,Diya Naidu,Administrator,Software Development,Screening,Rejected,Joined,01-05-2024,07-05-2024,,98021,6,Rahul Kumar
+62,Aadhya Gupta,Technician,Finance,Final Round,Rejected,Not Joined,19-03-2022,16-04-2022,27-05-2022,73228,9,Pawan Soni
+63,Ira Verma,Technician,Software Development,Final Round,Rejected,Not Joined,22-05-2023,,09-08-2023,143365,0,Adarsh Mishra
+64,Anaya Chatterjee,Administrator,Software Development,Final Round,Rejected,Joined,14-08-2024,18-08-2024,31-08-2024,67752,9,Suman Singh
+65,Krishna Kapoor,Analyst,Marketing,Hired,Offered,Joined,01-02-2023,14-03-2023,22-04-2023,44871,4,Suman Singh
+66,Jiya Kulkarni,Consultant,QA and Testing,Final Round,Rejected,Not Joined,27-11-2020,07-12-2020,,102255,8,Gourav Prajapati
+67,Arjun Gupta,Analyst,Software Development,Final Round,Rejected,Not Joined,20-04-2023,23-05-2023,,69132,7,Pawan Soni
+68,Ananya Pillai,Consultant,Software Development,Final Round,Rejected,Joined,18-08-2021,18-09-2021,,80196,2,Suman Singh
+69,Jiya Bose,Executive,Software Development,Screening,Offered,Not Joined,11-01-2023,28-02-2023,,107356,2,Suman Singh
+70,Myra Sharma,Developer,Marketing,Screening,Offered,Joined,04-08-2020,07-09-2020,05-11-2020,74375,0,Suman Singh
+71,Ira Bose,Specialist,Software Development,Screening,Rejected,Joined,28-06-2020,11-08-2020,,119705,9,Suman Singh
+72,Meera Mehta,Technician,Human Resources,Screening,Rejected,Joined,03-12-2021,,07-01-2022,68452,9,Adarsh Mishra
+73,Navya Naidu,Developer,Training,Hired,Offered,Not Joined,05-07-2022,21-07-2022,,149646,8,Adarsh Mishra
+74,Ishaan Pandey,Engineer,Training,Final Round,Rejected,Joined,21-08-2021,,07-10-2021,107014,2,Pratap Mishra
+75,Kabir Chopra,Executive,Software Development,Final Round,Offered,Joined,09-12-2023,08-01-2024,,68780,8,Shivam Pandey
+76,Prisha Pandey,Engineer,Software Development,Screening,Rejected,Not Joined,13-11-2020,01-12-2020,,135110,3,Gourav Prajapati
+77,Diya Pandey,Developer,Human Resources,Hired,Offered,Not Joined,07-11-2021,17-12-2021,,77823,2,Yash Pal
+78,Sai Chopra,Developer,Software Development,Screening,Rejected,Not Joined,11-05-2020,28-06-2020,,138093,7,Rahul Kumar
+79,Vihaan Siddiqui,Manager,Marketing,Hired,Offered,Not Joined,28-12-2022,,,64663,9,Suman Singh
+80,Ishaan Naidu,Executive,Marketing,Screening,Rejected,Joined,22-06-2023,09-08-2023,,111205,1,Adarsh Mishra
+81,Myra Kulkarni,Executive,Software Development,Hired,Offered,Joined,21-04-2024,26-04-2024,,42739,3,Suman Singh
+82,Diya Pillai,Executive,Software Development,Screening,Offered,Not Joined,13-03-2024,12-04-2024,06-05-2024,110694,9,Pawan Soni
+83,Myra Siddiqui,Coordinator,QA and Testing,Final Round,Offered,Not Joined,23-01-2022,16-02-2022,02-03-2022,77012,3,Suman Singh
+84,Myra Gupta,Coordinator,QA and Testing,Screening,Offered,Joined,07-05-2023,15-05-2023,,46505,10,Rahul Kumar
+85,Krishna Patel,Developer,Support,Screening,Offered,Not Joined,07-09-2020,15-10-2020,,47038,4,Suman Singh
+86,Arjun Sharma,Specialist,Software Development,Hired,Offered,Joined,22-02-2021,,,127218,1,Rahul Kumar
+87,Myra Chatterjee,Consultant,Human Resources,Hired,Offered,Joined,24-02-2024,29-02-2024,,132659,10,Suman Singh
+88,Siya Khan,Manager,QA and Testing,Screening,Rejected,Joined,01-11-2023,05-11-2023,,49442,2,Suman Singh
+89,Ira Patel,Executive,Software Development,Screening,Rejected,Not Joined,20-05-2021,30-06-2021,,133952,10,Gourav Prajapati
+90,Myra Iyer,Executive,Software Development,Final Round,Rejected,Not Joined,28-12-2024,11-01-2025,,70963,2,Pawan Soni
+91,AdITya Gupta,Manager,Human Resources,Final Round,Offered,Not Joined,22-03-2022,21-05-2022,21-06-2022,106869,6,Rahul Kumar
+92,Navya Verma,Analyst,Software Development,Final Round,Rejected,Joined,12-07-2020,06-09-2020,,116079,10,Suman Singh
+93,Aarohi Mehta,Analyst,Software Development,Hired,Offered,Joined,12-02-2021,08-04-2021,14-05-2021,120894,6,Suman Singh
+94,Kabir Patel,Specialist,Support,Hired,Offered,Not Joined,09-03-2020,,11-06-2020,34018,10,Gourav Prajapati
+95,Ananya Kapoor,Specialist,QA and Testing,Screening,Rejected,Joined,13-04-2024,10-05-2024,,128885,3,Suman Singh
+96,Aadhya Deshmukh,Technician,Human Resources,Final Round,Offered,Joined,15-05-2020,27-06-2020,,118895,9,Adarsh Mishra
+97,Siya Deshmukh,Engineer,Finance,Hired,Offered,Joined,10-11-2024,13-11-2024,28-11-2024,67938,10,Rahul Kumar
+98,Sai Jain,Executive,Training,Screening,Offered,Not Joined,16-01-2020,,01-04-2020,35544,7,Suman Singh
+99,Prisha Khan,Administrator,Support,Screening,Rejected,Not Joined,03-08-2020,,,72568,7,Shiksha Sharma
+100,Aarohi Gupta,Executive,Finance,Hired,Offered,Not Joined,27-08-2024,11-10-2024,09-12-2024,81873,8,Suman Singh
+101,AdITya Reddy,Manager,QA and Testing,Screening,Offered,Not Joined,11-04-2022,31-05-2022,11-06-2022,114599,6,Shiksha Sharma
+102,Sai Deshmukh,Developer,Marketing,Screening,Offered,Joined,05-02-2021,22-02-2021,07-03-2021,90811,7,Suman Singh
+103,Meera Patel,Developer,Human Resources,Hired,Offered,Not Joined,21-11-2024,31-12-2024,21-01-2025,107518,4,Suman Singh
+104,Myra Verma,Engineer,Software Development,Final Round,Offered,Joined,03-09-2022,23-09-2022,23-10-2022,90648,9,Shivam Pandey
+105,Vanya Choudhary,Consultant,QA and Testing,Hired,Offered,Joined,21-10-2023,03-11-2023,24-11-2023,123626,2,Suman Singh
+106,Jiya Siddiqui,Technician,Human Resources,Screening,Offered,Not Joined,06-11-2024,09-11-2024,,83578,0,Adarsh Mishra
+107,Ananya Gupta,Specialist,Training,Screening,Rejected,Not Joined,26-01-2024,07-03-2024,18-04-2024,148796,2,Yash Pal
+108,Aarohi Kulkarni,Executive,Marketing,Screening,Offered,Not Joined,19-02-2022,03-04-2022,13-04-2022,73054,3,Pawan Soni
+109,Anaya Chatterjee,Engineer,Marketing,Final Round,Offered,Joined,21-02-2024,04-04-2024,02-05-2024,55166,10,Gourav Prajapati
+110,Vihaan Reddy,Consultant,Training,Screening,Offered,Not Joined,03-03-2021,22-03-2021,16-05-2021,108282,3,Rahul Kumar
+111,Vanya Kapoor,Technician,Finance,Final Round,Rejected,Joined,06-03-2021,29-04-2021,13-06-2021,128617,9,Adarsh Mishra
+112,Aadhya Chopra,Specialist,Human Resources,Screening,Rejected,Not Joined,08-09-2021,28-09-2021,19-11-2021,95916,5,Rahul Kumar
+113,Ishaan Verma,Technician,Marketing,Final Round,Offered,Joined,26-04-2021,04-06-2021,13-06-2021,65755,1,Rahul Kumar
+114,Krishna Siddiqui,Specialist,Software Development,Final Round,Offered,Not Joined,27-03-2024,24-04-2024,,40696,9,Suman Singh
+115,Jiya Nair,Specialist,Software Development,Hired,Offered,Joined,11-01-2021,12-03-2021,19-03-2021,121235,5,Suman Singh
+116,AdITya Sharma,Analyst,Training,Hired,Offered,Joined,20-08-2023,21-08-2023,,45970,1,Suman Singh
+117,Myra Gupta,Manager,Finance,Final Round,Offered,Joined,21-07-2021,10-09-2021,,30205,8,Suman Singh
+118,Diya Gupta,Consultant,Training,Hired,Offered,Not Joined,14-10-2021,26-10-2021,,80709,1,Suman Singh
+119,AdITya Chatterjee,Coordinator,Support,Screening,Offered,Not Joined,01-12-2022,,,74374,7,Rahul Kumar
+120,Arjun Gupta,Technician,Software Development,Final Round,Offered,Joined,16-12-2023,26-01-2024,07-02-2024,71365,6,Suman Singh
+121,Ishaan Verma,Coordinator,Finance,Final Round,Offered,Not Joined,27-07-2024,31-08-2024,01-10-2024,87272,1,Rahul Kumar
+122,Jiya Choudhary,Specialist,Marketing,Screening,Rejected,Joined,11-07-2023,23-07-2023,,108964,10,Suman Singh
+123,Ananya Pandey,Analyst,Finance,Final Round,Rejected,Joined,11-05-2024,18-05-2024,,35551,4,Suman Singh
+124,Vivaan Gupta,Executive,QA and Testing,Screening,Offered,Joined,09-07-2024,,09-10-2024,132408,1,Shivam Pandey
+125,Meera Chatterjee,Specialist,QA and Testing,Screening,Offered,Joined,03-03-2020,19-03-2020,08-05-2020,78760,1,Adarsh Mishra
+126,Siya Patel,Analyst,Support,Hired,Offered,Joined,05-10-2020,08-11-2020,,103619,7,Adarsh Mishra
+127,Vanya Kulkarni,Technician,QA and Testing,Hired,Offered,Joined,23-05-2022,21-06-2022,05-07-2022,88341,3,Gourav Prajapati
+128,Ira Pillai,Analyst,Marketing,Hired,Offered,Not Joined,12-11-2022,28-12-2022,,56342,10,Rahul Kumar
+129,Prisha Chatterjee,Technician,QA and Testing,Screening,Offered,Joined,01-08-2021,,,123969,9,Gourav Prajapati
+130,Prisha Gupta,Developer,Finance,Screening,Offered,Not Joined,25-07-2024,21-08-2024,13-10-2024,46821,2,Rahul Kumar
+131,Vivaan Mehta,Consultant,Software Development,Final Round,Offered,Joined,17-07-2021,14-09-2021,09-11-2021,75353,4,Pratap Mishra
+132,Ishaan Jain,Analyst,Software Development,Screening,Offered,Joined,07-05-2020,17-06-2020,23-07-2020,52439,6,Rahul Kumar
+133,AdITya Verma,Administrator,QA and Testing,Screening,Offered,Not Joined,27-01-2024,23-03-2024,,146522,4,Rahul Kumar
+134,Diya Bose,Analyst,QA and Testing,Hired,Offered,Joined,08-08-2022,29-09-2022,,56741,4,Shiksha Sharma
+135,Ananya Chatterjee,Executive,Software Development,Final Round,Offered,Not Joined,11-03-2024,06-05-2024,,88929,10,Shivam Pandey
+136,Vanya Khan,Coordinator,Support,Hired,Offered,Not Joined,02-02-2021,,,97466,10,Pawan Soni
+137,Siya Reddy,Technician,Support,Hired,Offered,Joined,16-05-2023,,,145649,6,Suman Singh
+138,Navya Jain,Analyst,Human Resources,Final Round,Rejected,Not Joined,01-09-2022,,,103638,9,Adarsh Mishra
+139,Anaya Siddiqui,Consultant,Software Development,Screening,Offered,Joined,10-09-2022,15-09-2022,,134188,10,Rahul Kumar
+140,Vanya Reddy,Executive,Software Development,Hired,Offered,Joined,25-06-2024,,,92094,1,Gourav Prajapati
+141,Vanya Patel,Developer,Software Development,Screening,Rejected,Not Joined,17-10-2021,26-10-2021,16-11-2021,94205,7,Pratap Mishra
+142,Vihaan Khan,Administrator,Support,Screening,Offered,Not Joined,12-01-2023,03-02-2023,19-03-2023,131733,4,Shiksha Sharma
+143,Meera Deshmukh,Executive,Software Development,Screening,Offered,Joined,16-10-2020,27-10-2020,30-11-2020,55006,4,Yash Pal
+144,Jiya Chopra,Executive,Software Development,Screening,Rejected,Joined,14-06-2023,24-06-2023,21-07-2023,103516,6,Adarsh Mishra
+145,Myra Pillai,Specialist,Software Development,Final Round,Rejected,Not Joined,13-09-2023,,,103149,6,Rahul Kumar
+146,Reyansh Choudhary,Specialist,Software Development,Final Round,Rejected,Not Joined,25-05-2021,,29-07-2021,79767,1,Suman Singh
+147,Jiya Gupta,Specialist,Marketing,Screening,Rejected,Not Joined,10-03-2022,13-03-2022,01-04-2022,65537,8,Rahul Kumar
+148,Krishna Iyer,Engineer,Software Development,Screening,Offered,Joined,20-02-2021,,,124025,2,Rahul Kumar
+149,Ira Kapoor,Executive,QA and Testing,Final Round,Rejected,Joined,25-11-2020,04-12-2020,,67409,4,Suman Singh
+150,Anvi Verma,Developer,QA and Testing,Hired,Offered,Not Joined,19-11-2020,04-12-2020,,128173,6,Shivam Pandey
+151,Vihaan Patel,Analyst,QA and Testing,Screening,Rejected,Joined,10-01-2020,16-02-2020,,55272,3,Rahul Kumar
+152,Ishaan Kapoor,Engineer,Training,Final Round,Rejected,Joined,24-03-2022,,04-06-2022,147577,5,Suman Singh
+153,Diya Mehta,Developer,Marketing,Final Round,Rejected,Joined,11-09-2023,,,88554,7,Adarsh Mishra
+154,Aarav Agarwal,Specialist,QA and Testing,Hired,Offered,Joined,19-05-2022,05-07-2022,,119925,5,Shiksha Sharma
+155,Krishna Iyer,Developer,Marketing,Hired,Offered,Not Joined,10-11-2020,04-12-2020,13-01-2021,91712,6,Pratap Mishra
+156,AdITya Reddy,Technician,QA and Testing,Screening,Rejected,Joined,25-11-2021,03-01-2022,,138629,8,Adarsh Mishra
+157,Anaya Siddiqui,Manager,Software Development,Hired,Offered,Joined,05-09-2024,16-09-2024,,37292,7,Rahul Kumar
+158,Vivaan Pillai,Technician,QA and Testing,Final Round,Offered,Not Joined,14-09-2021,14-10-2021,,58560,10,Rahul Kumar
+159,Ira Verma,Manager,QA and Testing,Hired,Offered,Not Joined,12-07-2020,,,114085,1,Gourav Prajapati
+160,Siya Bose,Manager,Software Development,Screening,Offered,Not Joined,15-07-2022,,07-11-2022,81518,6,Suman Singh
+161,Myra Pandey,Consultant,QA and Testing,Screening,Rejected,Joined,25-01-2021,27-01-2021,,66129,3,Adarsh Mishra
+162,Vanya Sharma,Coordinator,Software Development,Hired,Offered,Joined,26-01-2020,09-03-2020,05-04-2020,144322,6,Suman Singh
+163,Krishna Pillai,Coordinator,Human Resources,Hired,Offered,Not Joined,02-12-2021,28-12-2021,26-01-2022,105511,7,Suman Singh
+164,Ananya Iyer,Analyst,QA and Testing,Screening,Offered,Not Joined,25-10-2024,08-12-2024,,107550,8,Shiksha Sharma
+165,Meera Pandey,Executive,Software Development,Screening,Rejected,Not Joined,16-09-2023,20-09-2023,,54101,8,Adarsh Mishra
+166,Arjun Siddiqui,Engineer,Support,Final Round,Rejected,Joined,10-04-2021,04-06-2021,,73288,5,Gourav Prajapati
+167,Reyansh Verma,Analyst,QA and Testing,Screening,Offered,Joined,03-06-2023,,24-08-2023,124936,1,Rahul Kumar
+168,Kabir Sharma,Coordinator,Human Resources,Screening,Offered,Not Joined,28-04-2023,26-06-2023,18-07-2023,122244,4,Rahul Kumar
+169,Kabir Bose,Technician,Human Resources,Screening,Rejected,Not Joined,18-04-2023,09-05-2023,28-06-2023,95179,0,Shiksha Sharma
+170,Ananya Chopra,Specialist,QA and Testing,Final Round,Offered,Joined,16-12-2020,03-02-2021,,102523,7,Suman Singh
+171,Siya Naidu,Coordinator,Training,Screening,Rejected,Not Joined,07-03-2022,29-03-2022,,124838,7,Gourav Prajapati
+172,Sai Jain,Consultant,Training,Hired,Offered,Joined,24-03-2023,14-05-2023,,137216,1,Rahul Kumar
+173,Krishna Gupta,Developer,Software Development,Hired,Offered,Not Joined,05-07-2020,,08-10-2020,110808,3,Rahul Kumar
+174,Navya Sharma,Engineer,QA and Testing,Screening,Rejected,Not Joined,01-01-2023,,13-03-2023,118346,0,Suman Singh
+175,Krishna Chopra,Administrator,QA and Testing,Final Round,Rejected,Not Joined,04-02-2021,10-03-2021,,83218,10,Suman Singh
+176,Diya Gupta,Engineer,Finance,Final Round,Rejected,Not Joined,23-04-2024,08-05-2024,,31238,0,Suman Singh
+177,Ananya Naidu,Manager,QA and Testing,Hired,Offered,Joined,28-08-2020,25-09-2020,06-11-2020,104289,7,Rahul Kumar
+178,Ishaan Pillai,Administrator,Finance,Hired,Offered,Not Joined,03-01-2022,,,48899,8,Adarsh Mishra
+179,Prisha Bose,Consultant,Software Development,Final Round,Offered,Joined,06-05-2020,12-06-2020,28-06-2020,37038,4,Rahul Kumar
+180,Vanya Deshmukh,Administrator,Software Development,Final Round,Offered,Not Joined,27-04-2023,02-05-2023,,59902,8,Rahul Kumar
+181,Prisha Pandey,Executive,Finance,Screening,Rejected,Joined,14-07-2024,26-07-2024,,50214,8,Suman Singh
+182,Vihaan Gupta,Engineer,Software Development,Final Round,Rejected,Not Joined,13-12-2021,,,86489,5,Suman Singh
+183,Aarav Gupta,Specialist,QA and Testing,Hired,Offered,Not Joined,17-09-2024,,,132127,4,Rahul Kumar
+184,Diya Bose,Developer,QA and Testing,Final Round,Rejected,Not Joined,19-04-2024,23-05-2024,,86973,2,Rahul Kumar
+185,Aarohi Agarwal,Coordinator,QA and Testing,Screening,Rejected,Joined,16-05-2023,06-07-2023,,30887,0,Yash Pal
+186,Ananya Siddiqui,Specialist,Human Resources,Screening,Offered,Not Joined,13-10-2022,04-12-2022,29-01-2023,56326,9,Shiksha Sharma
+187,Anvi Nair,Technician,QA and Testing,Hired,Offered,Not Joined,13-03-2022,03-04-2022,22-04-2022,77843,10,Suman Singh
+188,Diya Pillai,Engineer,Software Development,Final Round,Offered,Not Joined,19-04-2024,24-05-2024,05-06-2024,39064,3,Rahul Kumar
+189,Ishaan Pandey,Developer,Marketing,Final Round,Rejected,Joined,21-03-2023,10-04-2023,26-04-2023,106315,2,Yash Pal
+190,Ira Verma,Specialist,Software Development,Screening,Offered,Joined,28-09-2024,12-11-2024,09-12-2024,76531,5,Rahul Kumar
+191,Meera Bose,Specialist,Finance,Final Round,Offered,Joined,19-01-2024,,,127891,3,Rahul Kumar
+192,Diya Naidu,Consultant,Human Resources,Final Round,Offered,Not Joined,13-06-2023,,,41253,0,Rahul Kumar
+193,Reyansh Reddy,Technician,Software Development,Final Round,Offered,Not Joined,10-06-2021,02-07-2021,,38804,3,Pratap Mishra
+194,Ananya Nair,Manager,Software Development,Hired,Offered,Joined,04-12-2020,06-12-2020,,85885,0,Pawan Soni
+195,Meera Pandey,Executive,Software Development,Hired,Offered,Not Joined,21-07-2021,02-08-2021,,122371,4,Gourav Prajapati
+196,AdITya Naidu,Manager,Training,Screening,Offered,Not Joined,25-05-2021,10-07-2021,,64387,10,Rahul Kumar
+197,Vanya Bose,Administrator,Training,Final Round,Rejected,Not Joined,11-11-2024,20-12-2024,14-01-2025,122535,2,Suman Singh
+198,Ananya Mehta,Coordinator,Human Resources,Hired,Offered,Not Joined,03-10-2024,16-11-2024,25-11-2024,84819,3,Gourav Prajapati
+199,Meera Pillai,Developer,Finance,Hired,Offered,Not Joined,14-07-2024,,,89113,2,Rahul Kumar
+200,Siya Pillai,Consultant,Software Development,Final Round,Rejected,Not Joined,16-01-2022,25-01-2022,07-02-2022,94054,6,Rahul Kumar
+201,Krishna Kulkarni,Engineer,Training,Hired,Offered,Joined,01-10-2020,21-11-2020,09-01-2021,131259,6,Suman Singh
+202,Ishaan Pillai,Specialist,Software Development,Hired,Offered,Joined,04-09-2024,11-10-2024,,138799,0,Rahul Kumar
+203,AdITya Siddiqui,Manager,Finance,Hired,Offered,Not Joined,15-01-2022,01-02-2022,24-02-2022,86120,9,Yash Pal
+204,Reyansh Verma,Administrator,Support,Screening,Rejected,Joined,26-03-2024,09-04-2024,01-06-2024,67923,4,Rahul Kumar
+205,Navya Verma,Analyst,Software Development,Screening,Offered,Joined,27-11-2024,04-12-2024,13-12-2024,138590,6,Adarsh Mishra
+206,Ishaan Nair,Executive,QA and Testing,Final Round,Offered,Joined,05-08-2023,11-09-2023,22-10-2023,121056,1,Rahul Kumar
+207,Anvi Gupta,Technician,Support,Screening,Rejected,Joined,11-08-2023,18-09-2023,,86314,9,Gourav Prajapati
+208,Ananya Pillai,Administrator,Software Development,Screening,Rejected,Not Joined,11-05-2023,04-07-2023,23-07-2023,36021,3,Yash Pal
+209,Sai Siddiqui,Technician,Human Resources,Final Round,Offered,Joined,04-01-2023,05-03-2023,,144612,2,Shivam Pandey
+210,Aarohi Pandey,Developer,Software Development,Final Round,Rejected,Joined,12-11-2020,29-11-2020,,42475,1,Rahul Kumar
+211,Krishna Reddy,Technician,Marketing,Hired,Offered,Joined,03-08-2021,12-08-2021,,47324,5,Rahul Kumar
+212,Vihaan Mehta,Specialist,Software Development,Final Round,Offered,Not Joined,13-04-2020,19-04-2020,05-06-2020,47451,0,Rahul Kumar
+213,Meera Kapoor,Technician,Software Development,Screening,Offered,Joined,19-09-2020,20-09-2020,30-10-2020,87984,7,Rahul Kumar
+214,Prisha Bose,Specialist,Support,Final Round,Offered,Joined,05-02-2020,25-03-2020,,102534,2,Rahul Kumar
+215,Vanya Reddy,Coordinator,Software Development,Final Round,Rejected,Joined,10-11-2020,24-11-2020,28-12-2020,61370,0,Pawan Soni
+216,Vanya Gupta,Consultant,Support,Final Round,Rejected,Joined,08-02-2023,12-03-2023,22-04-2023,85163,1,Rahul Kumar
+217,AdITya Sharma,Administrator,Software Development,Hired,Offered,Joined,06-11-2024,,,133453,1,Rahul Kumar
+218,Navya Khan,Executive,QA and Testing,Screening,Offered,Not Joined,21-05-2024,,,56633,10,Suman Singh
+219,Meera Pandey,Manager,QA and Testing,Screening,Rejected,Joined,13-06-2024,,,86948,8,Gourav Prajapati
+220,Diya Pandey,Developer,Support,Hired,Offered,Joined,20-10-2023,,13-11-2023,98551,6,Rahul Kumar
+221,Ishaan Mehta,Engineer,Marketing,Final Round,Rejected,Joined,05-06-2021,23-07-2021,11-09-2021,112251,9,Adarsh Mishra
+222,Aadhya Naidu,Developer,Human Resources,Hired,Offered,Joined,17-08-2023,10-09-2023,14-09-2023,45117,0,Suman Singh
+223,Aarav Iyer,Engineer,Software Development,Final Round,Rejected,Joined,02-01-2024,,22-04-2024,34635,4,Adarsh Mishra
+224,Anvi Patel,Analyst,Training,Hired,Offered,Joined,08-06-2021,05-07-2021,02-09-2021,53507,10,Yash Pal
+225,Myra Kulkarni,Analyst,QA and Testing,Hired,Offered,Joined,13-01-2024,18-01-2024,,132826,0,Rahul Kumar
+226,Aadhya Chopra,Consultant,Human Resources,Hired,Offered,Joined,15-04-2024,09-05-2024,,100981,5,Suman Singh
+227,Siya Kulkarni,Manager,Support,Screening,Offered,Not Joined,01-06-2020,20-07-2020,,48661,8,Gourav Prajapati
+228,Anaya Khan,Specialist,Marketing,Screening,Offered,Joined,08-01-2020,06-03-2020,30-04-2020,81688,0,Adarsh Mishra
+229,Arjun Iyer,Analyst,Software Development,Final Round,Rejected,Not Joined,02-10-2024,30-10-2024,,39789,3,Suman Singh
+230,Sai Siddiqui,Technician,Finance,Final Round,Offered,Not Joined,04-10-2021,14-10-2021,,70410,2,Suman Singh
+231,Diya Kulkarni,Administrator,QA and Testing,Hired,Offered,Joined,03-02-2022,,,76627,7,Rahul Kumar
+232,Sai Sharma,Executive,Software Development,Final Round,Offered,Joined,22-01-2024,11-02-2024,28-02-2024,48322,9,Suman Singh
+233,Arjun Chopra,Executive,Training,Screening,Offered,Not Joined,27-01-2020,17-03-2020,,38450,5,Suman Singh
+234,Ananya Mehta,Engineer,Software Development,Hired,Offered,Not Joined,03-03-2023,30-04-2023,,33864,10,Rahul Kumar
+235,Sai Agarwal,Analyst,Marketing,Hired,Offered,Joined,12-03-2023,26-03-2023,,145707,10,Yash Pal
+236,Navya Chopra,Consultant,Marketing,Screening,Offered,Not Joined,09-02-2020,05-03-2020,,101371,7,Suman Singh
+237,Ishaan Kapoor,Engineer,Software Development,Screening,Offered,Joined,17-10-2022,07-11-2022,02-12-2022,37679,10,Rahul Kumar
+238,Sai Mehta,Coordinator,Training,Hired,Offered,Joined,25-06-2024,02-08-2024,17-08-2024,105457,10,Rahul Kumar
+239,Ananya Chatterjee,Administrator,Training,Screening,Rejected,Joined,06-03-2022,22-03-2022,,136220,5,Adarsh Mishra
+240,AdITya Verma,Coordinator,Marketing,Hired,Offered,Not Joined,06-05-2024,,10-06-2024,56406,2,Rahul Kumar
+241,Ananya Verma,Engineer,Training,Screening,Offered,Joined,06-12-2022,03-02-2023,27-03-2023,39506,9,Adarsh Mishra
+242,Ananya Jain,Developer,Finance,Final Round,Rejected,Not Joined,04-10-2023,,15-11-2023,120906,0,Pawan Soni
+243,Siya Kulkarni,Analyst,Software Development,Hired,Offered,Not Joined,19-11-2021,11-01-2022,23-01-2022,104381,10,Gourav Prajapati
+244,Vanya Iyer,Administrator,Marketing,Final Round,Offered,Not Joined,11-10-2021,09-12-2021,,71879,10,Rahul Kumar
+245,Ananya Siddiqui,Engineer,Software Development,Hired,Offered,Joined,22-12-2020,01-02-2021,20-03-2021,124426,5,Pawan Soni
+246,Sai Khan,Technician,QA and Testing,Final Round,Rejected,Joined,15-07-2020,31-08-2020,27-09-2020,105766,8,Pawan Soni
+247,Vivaan Kulkarni,Engineer,QA and Testing,Final Round,Offered,Joined,03-08-2021,24-09-2021,18-11-2021,51090,7,Shivam Pandey
+248,Aadhya Sharma,Executive,Software Development,Hired,Offered,Joined,11-02-2024,,,54901,8,Suman Singh
+249,Diya Kulkarni,Analyst,Training,Hired,Offered,Not Joined,24-12-2024,28-01-2025,14-02-2025,50131,0,Adarsh Mishra
+250,Diya Nair,Administrator,Finance,Hired,Offered,Joined,14-01-2022,20-01-2022,08-02-2022,40739,7,Adarsh Mishra
+251,Aadhya Pandey,Analyst,Software Development,Screening,Rejected,Joined,26-05-2020,21-06-2020,,54455,0,Suman Singh
+252,Krishna Agarwal,Administrator,QA and Testing,Hired,Offered,Joined,15-05-2020,14-06-2020,01-07-2020,84262,6,Rahul Kumar
+253,Anaya Khan,Consultant,Software Development,Final Round,Offered,Not Joined,27-01-2024,21-02-2024,,141927,2,Suman Singh
+254,Diya Deshmukh,Developer,QA and Testing,Final Round,Offered,Joined,17-10-2024,08-12-2024,14-01-2025,46539,3,Adarsh Mishra
+255,Meera Jain,Administrator,Training,Final Round,Offered,Joined,22-02-2023,22-03-2023,,72746,8,Pawan Soni
+256,Jiya Deshmukh,Administrator,QA and Testing,Final Round,Offered,Not Joined,28-08-2024,,19-10-2024,106372,4,Suman Singh
+257,Kabir Pillai,Specialist,Human Resources,Final Round,Rejected,Not Joined,25-10-2020,01-11-2020,,52570,3,Gourav Prajapati
+258,Jiya Bose,Engineer,Software Development,Final Round,Offered,Joined,20-03-2023,28-04-2023,11-06-2023,147575,3,Shiksha Sharma
+259,Kabir Agarwal,Technician,Support,Screening,Offered,Joined,27-06-2020,,06-09-2020,88079,9,Gourav Prajapati
+260,AdITya Chopra,Technician,Training,Final Round,Rejected,Not Joined,14-12-2022,22-01-2023,05-03-2023,50836,1,Pawan Soni
+261,Anaya Naidu,Engineer,Support,Hired,Offered,Joined,17-12-2022,12-01-2023,,77235,6,Adarsh Mishra
+262,Siya Nair,Manager,QA and Testing,Hired,Offered,Not Joined,27-06-2022,27-07-2022,,144095,4,Pawan Soni
+263,Ishaan Gupta,Analyst,Human Resources,Final Round,Offered,Joined,12-09-2024,05-10-2024,16-10-2024,58091,10,Shiksha Sharma
+264,Navya Reddy,Engineer,Human Resources,Screening,Offered,Not Joined,07-11-2021,25-11-2021,06-01-2022,108792,2,Rahul Kumar
+265,Jiya Nair,Analyst,QA and Testing,Final Round,Rejected,Not Joined,20-05-2021,11-07-2021,,118761,9,Rahul Kumar
+266,Aarohi Pillai,Administrator,Finance,Final Round,Rejected,Joined,01-02-2024,05-03-2024,,66239,8,Pawan Soni
+267,Meera Kulkarni,Coordinator,Support,Screening,Offered,Joined,21-05-2022,06-07-2022,02-09-2022,108647,4,Rahul Kumar
+268,Meera Choudhary,Analyst,Human Resources,Final Round,Rejected,Not Joined,05-11-2022,22-12-2022,24-12-2022,104978,7,Rahul Kumar
+269,Ira Nair,Technician,Software Development,Final Round,Rejected,Joined,23-12-2022,07-01-2023,20-02-2023,53741,10,Shiksha Sharma
+270,Anvi Pillai,Developer,Human Resources,Final Round,Offered,Joined,05-08-2020,22-09-2020,09-10-2020,70250,7,Shiksha Sharma
+271,Myra Mehta,Technician,Software Development,Screening,Offered,Not Joined,09-06-2022,17-07-2022,05-08-2022,143704,10,Gourav Prajapati
+272,Arjun Jain,Coordinator,Marketing,Final Round,Rejected,Joined,14-05-2024,18-05-2024,13-07-2024,132097,10,Rahul Kumar
+273,Meera Verma,Engineer,Human Resources,Final Round,Offered,Joined,21-06-2023,03-07-2023,,132919,10,Rahul Kumar
+274,Siya Khan,Technician,Support,Hired,Offered,Joined,14-10-2021,24-11-2021,22-12-2021,146917,8,Gourav Prajapati
+275,Meera Iyer,Coordinator,Software Development,Final Round,Rejected,Joined,01-04-2024,,16-05-2024,70123,3,Rahul Kumar
+276,Anvi Reddy,Administrator,Support,Final Round,Rejected,Joined,10-01-2020,29-01-2020,28-02-2020,77087,2,Pawan Soni
+277,Anvi Jain,Coordinator,Software Development,Hired,Offered,Joined,01-07-2021,16-07-2021,31-07-2021,34897,2,Gourav Prajapati
+278,Vivaan Pandey,Manager,Human Resources,Hired,Offered,Joined,20-09-2022,24-09-2022,,101733,6,Suman Singh
+279,Diya Nair,Engineer,Human Resources,Final Round,Offered,Not Joined,05-12-2023,19-12-2023,02-02-2024,84896,3,Pawan Soni
+280,Vihaan Mehta,Technician,Training,Screening,Offered,Not Joined,20-12-2024,28-12-2024,16-01-2025,76913,0,Adarsh Mishra
+281,Reyansh Choudhary,Specialist,Support,Hired,Offered,Joined,02-03-2022,07-04-2022,09-05-2022,117690,5,Pawan Soni
+282,Anvi Mehta,Analyst,Software Development,Hired,Offered,Not Joined,25-02-2021,30-03-2021,,136584,7,Rahul Kumar
+283,Ananya Khan,Manager,Human Resources,Hired,Offered,Joined,12-05-2020,03-07-2020,,76861,8,Pawan Soni
+284,Ananya Kapoor,Manager,Finance,Final Round,Rejected,Not Joined,24-05-2024,30-05-2024,23-06-2024,92684,1,Rahul Kumar
+285,Vivaan Kapoor,Manager,Software Development,Screening,Rejected,Not Joined,05-02-2021,,,77002,0,Rahul Kumar
+286,Navya Siddiqui,Engineer,Software Development,Final Round,Rejected,Joined,16-08-2021,24-08-2021,20-10-2021,130601,1,Suman Singh
+287,Vanya Mehta,Executive,Support,Screening,Offered,Not Joined,17-09-2022,01-11-2022,16-12-2022,80446,8,Suman Singh
+288,Sai Reddy,Technician,Training,Final Round,Offered,Joined,02-10-2024,03-10-2024,,73371,7,Shiksha Sharma
+289,Siya Bose,Coordinator,QA and Testing,Final Round,Rejected,Not Joined,08-09-2020,,,71426,2,Adarsh Mishra
+290,Siya Khan,Engineer,QA and Testing,Screening,Offered,Joined,21-12-2023,23-12-2023,30-12-2023,113563,5,Suman Singh
+291,Myra Patel,Specialist,Support,Hired,Offered,Not Joined,07-09-2024,19-10-2024,01-12-2024,108636,7,Pawan Soni
+292,Diya Iyer,Engineer,Human Resources,Final Round,Rejected,Not Joined,15-12-2022,23-12-2022,,51516,3,Suman Singh
+293,Vihaan Agarwal,Administrator,Software Development,Hired,Offered,Not Joined,24-12-2021,09-02-2022,08-03-2022,54979,8,Suman Singh
+294,Diya Naidu,Manager,Human Resources,Final Round,Rejected,Joined,02-07-2020,31-08-2020,,126497,2,Pawan Soni
+295,Anaya Kapoor,Administrator,Software Development,Screening,Offered,Joined,27-07-2024,03-09-2024,04-10-2024,145696,2,Rahul Kumar
+296,Jiya Iyer,Analyst,Finance,Final Round,Rejected,Not Joined,14-07-2024,22-08-2024,,108974,0,Rahul Kumar
+297,Ira Nair,Coordinator,Support,Hired,Offered,Not Joined,23-06-2024,10-08-2024,,123113,0,Suman Singh
+298,Jiya Mehta,Specialist,Software Development,Final Round,Rejected,Not Joined,23-09-2024,03-11-2024,,31673,10,Suman Singh
+299,Vivaan Chopra,Analyst,QA and Testing,Hired,Offered,Not Joined,05-07-2020,,,132807,4,Suman Singh
+300,Myra Mehta,Administrator,Finance,Screening,Offered,Not Joined,02-09-2021,25-09-2021,17-11-2021,134703,3,Rahul Kumar
+301,Diya Patel,Consultant,Finance,Hired,Offered,Joined,13-07-2020,09-08-2020,29-09-2020,144048,5,Suman Singh
+302,Aarohi Naidu,Consultant,Training,Screening,Offered,Joined,23-11-2021,08-01-2022,,119477,7,Shivam Pandey
+303,Siya Verma,Executive,Training,Screening,Rejected,Joined,24-03-2021,,04-05-2021,30739,9,Pawan Soni
+304,Ananya Deshmukh,Engineer,Software Development,Screening,Rejected,Not Joined,05-12-2023,08-12-2023,18-12-2023,39552,3,Gourav Prajapati
+305,Anaya Kapoor,Executive,Software Development,Screening,Rejected,Joined,06-04-2024,10-05-2024,15-05-2024,116944,9,Rahul Kumar
+306,Vanya Reddy,Technician,Training,Screening,Offered,Joined,10-06-2022,24-06-2022,,148554,10,Suman Singh
+307,Vihaan Bose,Analyst,QA and Testing,Screening,Rejected,Joined,11-11-2020,06-12-2020,03-02-2021,79146,9,Gourav Prajapati
+308,Reyansh Patel,Consultant,Finance,Hired,Offered,Joined,10-01-2023,09-03-2023,,112511,6,Rahul Kumar
+309,Jiya Khan,Manager,Support,Screening,Offered,Joined,07-02-2023,14-03-2023,,41471,8,Rahul Kumar
+310,AdITya Naidu,Coordinator,Human Resources,Final Round,Rejected,Not Joined,26-03-2020,12-04-2020,,32213,3,Rahul Kumar
+311,Vanya Gupta,Administrator,Support,Screening,Offered,Not Joined,01-09-2020,13-10-2020,,133139,0,Rahul Kumar
+312,Myra Bose,Executive,Marketing,Screening,Offered,Not Joined,10-02-2024,,,127878,1,Gourav Prajapati
+313,Diya Nair,Specialist,Marketing,Screening,Offered,Joined,21-05-2024,,20-06-2024,81653,1,Suman Singh
+314,Anvi Chatterjee,Coordinator,Software Development,Screening,Offered,Joined,24-04-2022,,08-08-2022,63127,9,Adarsh Mishra
+315,Vivaan Pillai,Technician,QA and Testing,Screening,Offered,Not Joined,22-03-2020,13-05-2020,,55875,5,Rahul Kumar
+316,Krishna Mehta,Analyst,Human Resources,Hired,Offered,Not Joined,05-06-2022,18-07-2022,,116431,10,Suman Singh
+317,Ananya Khan,Developer,QA and Testing,Final Round,Offered,Joined,19-03-2024,25-04-2024,19-05-2024,66264,7,Pawan Soni
+318,Aadhya Siddiqui,Technician,QA and Testing,Final Round,Rejected,Joined,24-11-2021,,11-02-2022,140335,9,Pawan Soni
+319,Meera Gupta,Manager,Marketing,Screening,Offered,Not Joined,07-09-2021,24-09-2021,,34804,0,Suman Singh
+320,Arjun Chatterjee,Executive,Training,Screening,Rejected,Joined,16-09-2024,28-10-2024,17-12-2024,82007,7,Rahul Kumar
+321,Vanya Pandey,Developer,Software Development,Screening,Offered,Not Joined,22-01-2024,,02-04-2024,104162,5,Gourav Prajapati
+322,Aadhya Iyer,Manager,Training,Final Round,Offered,Joined,02-06-2023,17-06-2023,05-08-2023,133738,7,Rahul Kumar
+323,Vivaan Nair,Specialist,Training,Screening,Rejected,Not Joined,15-08-2023,11-10-2023,14-10-2023,79369,7,Rahul Kumar
+324,AdITya Reddy,Analyst,Software Development,Hired,Offered,Not Joined,21-10-2022,18-12-2022,,133895,4,Gourav Prajapati
+325,Myra Kapoor,Coordinator,QA and Testing,Screening,Rejected,Joined,17-01-2024,,,108908,10,Adarsh Mishra
+326,Vihaan Choudhary,Technician,QA and Testing,Hired,Offered,Not Joined,26-07-2021,,,105168,7,Adarsh Mishra
+327,Prisha Jain,Engineer,Finance,Final Round,Offered,Not Joined,17-11-2021,20-11-2021,17-01-2022,32440,9,Rahul Kumar
+328,Aadhya Kapoor,Coordinator,Software Development,Final Round,Offered,Joined,15-04-2020,24-05-2020,24-06-2020,51983,9,Rahul Kumar
+329,Siya Bose,Developer,Training,Hired,Offered,Not Joined,19-10-2023,24-10-2023,08-11-2023,53255,7,Rahul Kumar
+330,Ira Reddy,Manager,Software Development,Final Round,Offered,Joined,02-10-2024,28-11-2024,18-01-2025,115096,10,Suman Singh
+331,Jiya Reddy,Executive,Support,Final Round,Rejected,Not Joined,12-07-2024,06-09-2024,09-09-2024,129816,7,Adarsh Mishra
+332,Krishna Gupta,Analyst,Marketing,Screening,Rejected,Not Joined,09-03-2023,,29-05-2023,133471,6,Adarsh Mishra
+333,Siya Nair,Coordinator,Support,Final Round,Rejected,Not Joined,04-09-2024,,,106725,1,Rahul Kumar
+334,Vanya Agarwal,Executive,Software Development,Hired,Offered,Not Joined,14-09-2022,,14-11-2022,93407,9,Yash Pal
+335,Siya Jain,Manager,QA and Testing,Hired,Offered,Joined,12-10-2022,,16-01-2023,133033,1,Rahul Kumar
+336,Vivaan Kapoor,Executive,Training,Hired,Offered,Joined,23-10-2024,06-12-2024,21-01-2025,41552,3,Pawan Soni
+337,Vivaan Bose,Executive,Finance,Screening,Rejected,Joined,12-04-2022,18-04-2022,27-05-2022,113924,9,Rahul Kumar
+338,Anaya Kulkarni,Coordinator,Software Development,Screening,Offered,Joined,07-01-2023,03-03-2023,,115854,0,Suman Singh
+339,Aarohi Pandey,Executive,Marketing,Screening,Offered,Joined,09-02-2021,31-03-2021,,41818,1,Suman Singh
+340,Ishaan Iyer,Administrator,QA and Testing,Final Round,Rejected,Joined,12-10-2024,04-11-2024,,43954,0,Rahul Kumar
+341,Anaya Agarwal,Consultant,Marketing,Screening,Rejected,Not Joined,11-05-2024,19-05-2024,10-07-2024,130921,5,Rahul Kumar
+342,Prisha Sharma,Technician,Support,Final Round,Offered,Not Joined,22-08-2022,21-09-2022,18-11-2022,118724,1,Rahul Kumar
+343,Aarav Agarwal,Coordinator,Software Development,Hired,Offered,Not Joined,12-07-2022,,19-09-2022,92463,9,Suman Singh
+344,Anvi Pandey,Coordinator,QA and Testing,Screening,Offered,Joined,19-04-2022,07-05-2022,19-05-2022,57102,1,Rahul Kumar
+345,Arjun Mehta,Manager,QA and Testing,Screening,Rejected,Joined,27-04-2021,06-06-2021,29-06-2021,35539,4,Rahul Kumar
+346,Prisha Agarwal,Technician,Finance,Screening,Rejected,Not Joined,11-10-2022,12-11-2022,09-01-2023,37097,3,Pawan Soni
+347,Siya Pandey,Developer,Training,Hired,Offered,Not Joined,02-09-2023,05-10-2023,,57623,6,Suman Singh
+348,Ishaan Kapoor,Consultant,QA and Testing,Hired,Offered,Not Joined,11-02-2024,06-03-2024,,54105,4,Suman Singh
+349,Aarohi Chatterjee,Executive,Finance,Final Round,Offered,Joined,14-04-2023,29-05-2023,17-07-2023,136717,4,Rahul Kumar
+350,Siya Chopra,Developer,Support,Screening,Offered,Not Joined,18-04-2022,16-05-2022,,95483,5,Suman Singh
+351,Aadhya Kulkarni,Analyst,Marketing,Screening,Offered,Not Joined,24-09-2024,,,58241,2,Suman Singh
+352,Ananya Agarwal,Specialist,QA and Testing,Screening,Rejected,Not Joined,04-11-2023,,,143687,7,Rahul Kumar
+353,Sai Kulkarni,Specialist,Human Resources,Screening,Rejected,Not Joined,21-10-2024,02-12-2024,,67555,0,Rahul Kumar
+354,Ananya Khan,Administrator,QA and Testing,Final Round,Offered,Joined,21-03-2021,,,71533,0,Shivam Pandey
+355,Myra Chatterjee,Administrator,Support,Final Round,Rejected,Joined,21-10-2022,,,125390,3,Rahul Kumar
+356,Reyansh Kapoor,Executive,QA and Testing,Hired,Offered,Not Joined,23-12-2022,09-02-2023,,82037,8,Suman Singh
+357,Meera Bose,Analyst,Marketing,Hired,Offered,Not Joined,20-05-2020,30-05-2020,,139906,10,Adarsh Mishra
+358,Ananya Choudhary,Technician,Human Resources,Screening,Rejected,Not Joined,22-01-2020,,10-04-2020,100685,2,Adarsh Mishra
+359,Meera Naidu,Executive,Software Development,Screening,Rejected,Not Joined,15-10-2024,25-11-2024,,41738,10,Rahul Kumar
+360,Kabir Sharma,Engineer,QA and Testing,Hired,Offered,Not Joined,14-06-2022,01-07-2022,,94478,9,Rahul Kumar
+361,Kabir Deshmukh,Coordinator,QA and Testing,Hired,Offered,Joined,25-01-2022,22-02-2022,15-04-2022,81740,10,Rahul Kumar
+362,Siya Iyer,Analyst,QA and Testing,Final Round,Offered,Not Joined,24-12-2021,04-02-2022,01-03-2022,136012,0,Yash Pal
+363,Arjun Kulkarni,Manager,Software Development,Final Round,Rejected,Not Joined,28-04-2023,03-05-2023,,72027,1,Rahul Kumar
+364,Vihaan Kulkarni,Analyst,QA and Testing,Screening,Rejected,Joined,18-01-2021,20-01-2021,,94694,6,Rahul Kumar
+365,Aadhya Chatterjee,Technician,Software Development,Hired,Offered,Joined,10-07-2022,30-08-2022,21-10-2022,37345,10,Gourav Prajapati
+366,Reyansh Agarwal,Executive,Support,Hired,Offered,Joined,18-02-2023,21-03-2023,02-04-2023,62396,8,Suman Singh
+367,Anaya Pandey,Coordinator,Marketing,Final Round,Rejected,Not Joined,24-08-2021,,20-10-2021,127612,6,Shivam Pandey
+368,Aarohi Verma,Coordinator,Support,Hired,Offered,Not Joined,21-08-2022,,23-09-2022,106637,10,Suman Singh
+369,Jiya Choudhary,Administrator,Training,Final Round,Offered,Joined,01-04-2023,,,111087,9,Rahul Kumar
+370,Jiya Pillai,Manager,Support,Final Round,Offered,Not Joined,12-01-2020,23-02-2020,04-03-2020,129181,7,Rahul Kumar
+371,Siya Chatterjee,Developer,Finance,Hired,Offered,Not Joined,07-12-2023,09-12-2023,23-01-2024,94237,4,Rahul Kumar
+372,Anvi Siddiqui,Analyst,QA and Testing,Screening,Offered,Joined,18-03-2024,10-04-2024,,137402,7,Suman Singh
+373,Meera Reddy,Executive,Software Development,Hired,Offered,Not Joined,15-06-2024,16-06-2024,,124503,10,Shiksha Sharma
+374,Aadhya Pillai,Developer,QA and Testing,Final Round,Rejected,Not Joined,07-07-2024,10-08-2024,,98576,10,Pawan Soni
+375,Reyansh Mehta,Technician,Human Resources,Hired,Offered,Not Joined,06-03-2020,01-05-2020,04-05-2020,121922,1,Shiksha Sharma
+376,AdITya Sharma,Coordinator,Software Development,Final Round,Offered,Not Joined,08-06-2020,17-07-2020,,103140,0,Rahul Kumar
+377,Ishaan Reddy,Engineer,Training,Hired,Offered,Joined,02-12-2022,24-01-2023,05-03-2023,42729,1,Gourav Prajapati
+378,Anaya Pandey,Coordinator,QA and Testing,Screening,Offered,Not Joined,13-09-2021,26-09-2021,09-10-2021,105571,10,Pawan Soni
+379,Vihaan Kapoor,Developer,Software Development,Final Round,Rejected,Joined,22-12-2023,19-01-2024,16-03-2024,76179,0,Suman Singh
+380,Meera Khan,Specialist,Marketing,Hired,Offered,Not Joined,28-06-2024,22-07-2024,18-08-2024,63303,7,Rahul Kumar
+381,Vivaan Kulkarni,Administrator,Human Resources,Screening,Offered,Not Joined,13-08-2023,,30-09-2023,58157,2,Gourav Prajapati
+382,Ira Reddy,Consultant,Human Resources,Screening,Offered,Joined,27-12-2020,,,48141,1,Pawan Soni
+383,Kabir Gupta,Administrator,Support,Screening,Offered,Joined,08-10-2022,23-10-2022,09-11-2022,52662,8,Yash Pal
+384,Vivaan Naidu,Executive,Support,Hired,Offered,Not Joined,20-02-2024,02-04-2024,,143748,9,Rahul Kumar
+385,Aarav Nair,Executive,Support,Final Round,Offered,Not Joined,21-12-2021,14-02-2022,,95850,0,Pratap Mishra
+386,Myra Deshmukh,Administrator,Support,Hired,Offered,Not Joined,22-01-2021,10-03-2021,,47326,2,Rahul Kumar
+387,Ira Bose,Analyst,Software Development,Final Round,Rejected,Joined,19-08-2020,06-10-2020,,55966,7,Suman Singh
+388,Vanya Reddy,Coordinator,Marketing,Hired,Offered,Not Joined,19-11-2023,02-12-2023,07-01-2024,41743,6,Adarsh Mishra
+389,Ananya Chatterjee,Administrator,Support,Hired,Offered,Joined,12-07-2023,04-08-2023,17-08-2023,135224,1,Suman Singh
+390,Krishna Chopra,Specialist,Software Development,Screening,Offered,Joined,15-03-2024,18-03-2024,,111396,6,Rahul Kumar
+391,Vihaan Kulkarni,Technician,Marketing,Hired,Offered,Joined,11-01-2022,25-02-2022,,101620,7,Suman Singh
+392,Jiya Pandey,Engineer,Human Resources,Screening,Offered,Not Joined,20-08-2024,,,133440,6,Gourav Prajapati
+393,Siya Pandey,Analyst,Software Development,Screening,Rejected,Joined,21-08-2020,,27-08-2020,115119,7,Adarsh Mishra
+394,Ananya Choudhary,Administrator,Human Resources,Hired,Offered,Joined,17-07-2021,01-09-2021,,123384,10,Suman Singh
+395,Aadhya Bose,Developer,Software Development,Final Round,Rejected,Not Joined,17-04-2020,07-05-2020,,95700,7,Pawan Soni
+396,Aarav Pillai,Analyst,Software Development,Hired,Offered,Not Joined,09-11-2020,05-01-2021,,80096,3,Suman Singh
+397,Kabir Deshmukh,Specialist,Training,Screening,Offered,Joined,19-04-2023,29-04-2023,27-05-2023,119659,3,Shivam Pandey
+398,Anaya Jain,Executive,Finance,Hired,Offered,Not Joined,23-05-2021,,04-09-2021,124298,8,Gourav Prajapati
+399,Anvi Sharma,Specialist,Training,Final Round,Rejected,Not Joined,27-06-2021,23-08-2021,02-09-2021,113472,10,Adarsh Mishra
+400,Aarav Deshmukh,Administrator,Support,Screening,Offered,Joined,04-04-2021,13-04-2021,,40417,0,Rahul Kumar
+401,Jiya Nair,Specialist,QA and Testing,Final Round,Rejected,Not Joined,28-09-2021,,,34224,9,Suman Singh
+402,Diya Chopra,Coordinator,Training,Hired,Offered,Not Joined,14-05-2020,29-05-2020,16-07-2020,146337,1,Gourav Prajapati
+403,Anvi Bose,Specialist,Support,Screening,Offered,Joined,25-07-2023,28-07-2023,05-09-2023,35559,8,Suman Singh
+404,Ira Bose,Consultant,QA and Testing,Screening,Offered,Joined,13-09-2024,31-10-2024,,69918,6,Rahul Kumar
+405,Vivaan Reddy,Developer,Support,Screening,Rejected,Joined,14-03-2023,02-04-2023,,132069,5,Gourav Prajapati
+406,Sai Siddiqui,Administrator,Support,Hired,Offered,Joined,11-07-2023,09-08-2023,11-08-2023,148903,10,Suman Singh
+407,Meera Chatterjee,Manager,Software Development,Screening,Rejected,Joined,04-02-2020,21-03-2020,,130697,0,Rahul Kumar
+408,Arjun Kapoor,Developer,Finance,Screening,Offered,Not Joined,28-10-2022,10-12-2022,04-02-2023,88491,7,Rahul Kumar
+409,Vanya Agarwal,Engineer,Finance,Final Round,Rejected,Joined,05-02-2021,18-02-2021,,58426,5,Pawan Soni
+410,Vanya Sharma,Coordinator,Support,Final Round,Offered,Joined,15-07-2023,,,75746,1,Rahul Kumar
+411,Vanya Kulkarni,Specialist,Support,Hired,Offered,Not Joined,22-01-2021,28-02-2021,,67274,3,Adarsh Mishra
+412,Vivaan Gupta,Analyst,Marketing,Final Round,Rejected,Joined,19-12-2023,12-01-2024,12-03-2024,38509,8,Gourav Prajapati
+413,Ishaan Patel,Consultant,Support,Screening,Offered,Joined,04-03-2023,18-04-2023,,125646,4,Suman Singh
+414,Jiya Kulkarni,Executive,Support,Final Round,Rejected,Not Joined,23-12-2023,31-01-2024,31-03-2024,95063,3,Suman Singh
+415,Kabir Chopra,Engineer,Training,Hired,Offered,Joined,20-03-2023,04-04-2023,,110649,9,Pratap Mishra
+416,Meera Chopra,Engineer,Marketing,Hired,Offered,Not Joined,11-01-2023,03-02-2023,,96412,2,Suman Singh
+417,Siya Naidu,Administrator,Human Resources,Hired,Offered,Not Joined,22-02-2020,15-03-2020,06-04-2020,92797,8,Yash Pal
+418,Meera Siddiqui,Consultant,Finance,Final Round,Rejected,Joined,05-11-2020,06-12-2020,,125022,5,Suman Singh
+419,Diya Patel,Specialist,QA and Testing,Hired,Offered,Joined,01-09-2024,15-09-2024,,100028,3,Rahul Kumar
+420,Vihaan Kulkarni,Specialist,Software Development,Hired,Offered,Not Joined,13-10-2024,,03-12-2024,78704,10,Rahul Kumar
+421,Vihaan Chatterjee,Engineer,Marketing,Hired,Offered,Not Joined,17-04-2022,07-05-2022,19-05-2022,148614,10,Adarsh Mishra
+422,Anaya Kulkarni,Specialist,Software Development,Hired,Offered,Joined,16-06-2021,02-08-2021,,123543,1,Pawan Soni
+423,Vanya Gupta,Specialist,Software Development,Hired,Offered,Not Joined,02-05-2020,,09-08-2020,113735,2,Suman Singh
+424,Ira Patel,Technician,Software Development,Hired,Offered,Joined,07-04-2022,,,111650,0,Pawan Soni
+425,Ishaan Jain,Analyst,QA and Testing,Hired,Offered,Joined,12-09-2021,18-10-2021,08-11-2021,100854,7,Pawan Soni
+426,Diya Verma,Manager,QA and Testing,Hired,Offered,Not Joined,01-03-2020,01-04-2020,29-05-2020,146821,8,Rahul Kumar
+427,Reyansh Pandey,Consultant,Support,Final Round,Offered,Joined,10-06-2024,02-07-2024,24-08-2024,91377,2,Suman Singh
+428,Myra Choudhary,Coordinator,Support,Hired,Offered,Not Joined,22-05-2023,03-07-2023,18-08-2023,117186,6,Adarsh Mishra
+429,Aadhya Mehta,Specialist,Marketing,Final Round,Offered,Not Joined,16-08-2022,18-08-2022,23-08-2022,46697,2,Rahul Kumar
+430,Ira Nair,Manager,Software Development,Final Round,Rejected,Not Joined,26-12-2023,02-01-2024,,61941,3,Suman Singh
+431,Jiya Naidu,Executive,Software Development,Final Round,Rejected,Joined,03-07-2023,,08-08-2023,126910,9,Pawan Soni
+432,Ira Mehta,Technician,Support,Final Round,Rejected,Joined,20-10-2020,19-11-2020,10-12-2020,108172,6,Adarsh Mishra
+433,AdITya Chopra,Developer,Software Development,Screening,Offered,Joined,21-08-2022,03-10-2022,,68207,9,Suman Singh
+434,Diya Patel,Analyst,Finance,Screening,Rejected,Not Joined,15-10-2024,28-10-2024,11-11-2024,41703,1,Rahul Kumar
+435,Kabir Verma,Specialist,Software Development,Hired,Offered,Not Joined,13-09-2024,,,34087,7,Suman Singh
+436,Ananya Bose,Executive,Software Development,Final Round,Offered,Joined,19-12-2023,14-01-2024,,80409,7,Shivam Pandey
+437,Arjun Jain,Engineer,Software Development,Screening,Offered,Joined,10-03-2023,05-05-2023,,87243,2,Adarsh Mishra
+438,Myra Deshmukh,Executive,QA and Testing,Hired,Offered,Not Joined,21-03-2020,12-05-2020,,76570,2,Suman Singh
+439,Aadhya Iyer,Consultant,Software Development,Final Round,Rejected,Joined,20-07-2021,21-07-2021,27-08-2021,122390,8,Suman Singh
+440,Arjun Reddy,Analyst,Support,Screening,Offered,Joined,16-10-2020,30-11-2020,06-12-2020,116997,6,Yash Pal
+441,Ananya Pillai,Engineer,Software Development,Final Round,Rejected,Not Joined,10-10-2024,19-11-2024,23-11-2024,134624,7,Adarsh Mishra
+442,Vanya Kulkarni,Administrator,Software Development,Hired,Offered,Joined,02-03-2022,16-04-2022,15-06-2022,68240,6,Gourav Prajapati
+443,AdITya Agarwal,Analyst,Finance,Screening,Rejected,Not Joined,03-08-2022,12-08-2022,,44621,2,Rahul Kumar
+444,Aarohi Kapoor,Analyst,Finance,Screening,Offered,Not Joined,05-12-2024,,15-02-2025,34337,4,Shiksha Sharma
+445,Arjun Choudhary,Executive,Marketing,Final Round,Offered,Not Joined,20-03-2020,19-05-2020,,105727,7,Suman Singh
+446,Vihaan Verma,Developer,Finance,Final Round,Rejected,Not Joined,09-11-2020,28-12-2020,19-02-2021,99798,3,Rahul Kumar
+447,Ishaan Jain,Consultant,Support,Final Round,Offered,Not Joined,23-11-2023,18-12-2023,,118931,2,Yash Pal
+448,Ira Nair,Specialist,Finance,Final Round,Rejected,Not Joined,02-11-2024,09-11-2024,07-01-2025,63468,3,Shiksha Sharma
+449,Diya Naidu,Coordinator,Human Resources,Final Round,Offered,Not Joined,24-11-2023,10-12-2023,26-01-2024,139011,5,Shivam Pandey
+450,Diya Siddiqui,Specialist,Human Resources,Screening,Rejected,Not Joined,04-07-2020,,,42050,4,Rahul Kumar
+451,Meera Mehta,Manager,QA and Testing,Screening,Offered,Not Joined,27-11-2024,11-12-2024,19-01-2025,104195,7,Suman Singh
+452,Myra Pandey,Manager,Human Resources,Final Round,Rejected,Not Joined,06-12-2020,23-12-2020,11-01-2021,130941,5,Adarsh Mishra
+453,Vivaan Bose,Executive,Support,Hired,Offered,Not Joined,25-03-2022,,,56302,4,Rahul Kumar
+454,Ira Khan,Coordinator,Software Development,Screening,Offered,Not Joined,16-11-2021,23-11-2021,,39557,3,Rahul Kumar
+455,Aarav Choudhary,Developer,Marketing,Screening,Offered,Joined,09-12-2024,28-01-2025,,121757,10,Shiksha Sharma
+456,Aadhya Choudhary,Executive,Software Development,Screening,Offered,Joined,01-10-2023,,19-12-2023,137213,3,Rahul Kumar
+457,Ananya Pandey,Analyst,Finance,Hired,Offered,Not Joined,18-10-2020,17-12-2020,09-01-2021,40545,3,Suman Singh
+458,Vivaan Bose,Coordinator,Human Resources,Screening,Rejected,Joined,07-11-2022,19-11-2022,,41123,9,Suman Singh
+459,Anvi Naidu,Coordinator,Software Development,Final Round,Offered,Not Joined,02-03-2021,15-03-2021,17-03-2021,136401,5,Pratap Mishra
+460,Anvi Verma,Executive,Human Resources,Hired,Offered,Joined,11-01-2020,15-01-2020,,39441,10,Suman Singh
+461,Vanya Verma,Coordinator,QA and Testing,Screening,Offered,Joined,21-08-2021,,,70283,5,Rahul Kumar
+462,AdITya Mehta,Manager,QA and Testing,Screening,Offered,Joined,06-10-2023,29-11-2023,,136367,0,Yash Pal
+463,Arjun Patel,Coordinator,Support,Hired,Offered,Not Joined,22-02-2022,,,129293,6,Pratap Mishra
+464,Myra Iyer,Administrator,QA and Testing,Hired,Offered,Not Joined,12-12-2021,17-01-2022,,93827,1,Pawan Soni
+465,Jiya Nair,Administrator,Support,Final Round,Rejected,Joined,06-01-2020,06-03-2020,12-03-2020,98562,5,Suman Singh
+466,Vivaan Deshmukh,Developer,Software Development,Final Round,Offered,Not Joined,06-04-2023,16-05-2023,,60885,0,Rahul Kumar
+467,Ira Reddy,Coordinator,Software Development,Screening,Offered,Not Joined,04-09-2020,,,49558,2,Rahul Kumar
+468,Vivaan Verma,Specialist,Software Development,Hired,Offered,Not Joined,06-03-2023,18-04-2023,17-06-2023,129406,8,Pratap Mishra
+469,Ira Kapoor,Developer,QA and Testing,Hired,Offered,Joined,24-02-2020,,,88303,3,Rahul Kumar
+470,Ananya Iyer,Manager,Human Resources,Hired,Offered,Joined,24-04-2023,07-06-2023,04-08-2023,79221,3,Rahul Kumar
+471,Navya Jain,Coordinator,Software Development,Final Round,Offered,Not Joined,19-08-2020,20-09-2020,,55448,3,Suman Singh
+472,Jiya Naidu,Engineer,Software Development,Hired,Offered,Not Joined,11-04-2022,20-04-2022,,75033,7,Adarsh Mishra
+473,Meera Deshmukh,Developer,Support,Screening,Offered,Joined,06-10-2022,26-11-2022,16-01-2023,143010,10,Rahul Kumar
+474,Aarav Khan,Coordinator,Marketing,Final Round,Rejected,Joined,27-08-2024,26-09-2024,14-10-2024,49525,3,Pawan Soni
+475,Anaya Verma,Executive,Software Development,Final Round,Rejected,Joined,02-01-2023,02-02-2023,,103202,8,Rahul Kumar
+476,Krishna Nair,Manager,Training,Final Round,Rejected,Joined,05-04-2023,28-04-2023,17-05-2023,127948,0,Rahul Kumar
+477,Jiya Bose,Developer,Marketing,Final Round,Rejected,Joined,25-08-2023,03-09-2023,,147104,1,Rahul Kumar
+478,Ishaan Deshmukh,Consultant,Software Development,Hired,Offered,Not Joined,10-01-2024,07-02-2024,,149276,3,Suman Singh
+479,Vanya Verma,Specialist,Software Development,Hired,Offered,Joined,13-02-2020,,,100730,4,Gourav Prajapati
+480,Jiya Chopra,Coordinator,Human Resources,Final Round,Rejected,Not Joined,25-12-2023,01-02-2024,,75249,2,Rahul Kumar
+481,Aadhya Pillai,Consultant,Support,Final Round,Rejected,Joined,17-09-2023,,18-11-2023,41443,1,Adarsh Mishra
+482,Sai Agarwal,Manager,Software Development,Hired,Offered,Joined,10-03-2023,15-03-2023,22-03-2023,112218,7,Shivam Pandey
+483,Arjun Choudhary,Specialist,Support,Final Round,Offered,Not Joined,22-07-2022,,,135118,10,Rahul Kumar
+484,Ananya Nair,Specialist,Software Development,Screening,Rejected,Not Joined,11-11-2024,08-12-2024,,133461,6,Adarsh Mishra
+485,Kabir Verma,Developer,Support,Final Round,Rejected,Joined,08-05-2021,08-06-2021,,100165,3,Gourav Prajapati
+486,Diya Jain,Developer,Support,Hired,Offered,Not Joined,27-03-2021,12-05-2021,,78453,0,Shivam Pandey
+487,Ananya Chatterjee,Developer,Software Development,Final Round,Offered,Not Joined,23-09-2021,,,95459,6,Rahul Kumar
+488,Ira Reddy,Specialist,Software Development,Screening,Rejected,Not Joined,05-06-2023,06-06-2023,24-07-2023,128849,2,Pawan Soni
+489,Vihaan Choudhary,Engineer,QA and Testing,Screening,Offered,Not Joined,15-12-2024,,20-02-2025,58883,10,Suman Singh
+490,Meera Chopra,Administrator,Support,Hired,Offered,Joined,11-02-2022,,26-03-2022,88387,1,Gourav Prajapati
+491,Vanya Deshmukh,Consultant,Marketing,Screening,Rejected,Not Joined,07-07-2024,,29-08-2024,78448,2,Shivam Pandey
+492,Kabir Siddiqui,Consultant,Marketing,Hired,Offered,Not Joined,10-01-2022,02-02-2022,,135601,1,Pawan Soni
+493,AdITya Jain,Coordinator,Software Development,Final Round,Rejected,Joined,27-03-2023,04-05-2023,12-06-2023,79253,0,Suman Singh
+494,Navya Kapoor,Consultant,Human Resources,Screening,Offered,Joined,21-07-2020,,,102596,4,Pawan Soni
+495,Aadhya Pillai,Technician,Software Development,Hired,Offered,Joined,27-05-2020,04-07-2020,24-07-2020,139345,9,Gourav Prajapati
+496,Navya Kapoor,Technician,Marketing,Screening,Offered,Joined,22-11-2020,,,38745,4,Gourav Prajapati
+497,Ishaan Nair,Technician,Finance,Hired,Offered,Joined,19-08-2024,16-09-2024,,37669,10,Suman Singh
+498,Sai Verma,Analyst,Human Resources,Final Round,Rejected,Joined,23-08-2022,01-09-2022,24-09-2022,40069,7,Rahul Kumar
+499,Ira Patel,Specialist,Finance,Screening,Rejected,Not Joined,20-02-2021,10-04-2021,21-04-2021,42561,0,Shiksha Sharma
+500,Aarohi Choudhary,Executive,QA and Testing,Hired,Offered,Joined,05-01-2021,,,54696,0,Pawan Soni
+501,Arjun Sharma,Technician,Finance,Final Round,Rejected,Joined,03-08-2023,11-08-2023,03-10-2023,108335,6,Adarsh Mishra
+502,Vihaan Iyer,Developer,Finance,Screening,Offered,Joined,10-12-2021,12-12-2021,,40302,4,Suman Singh
+503,Navya Verma,Coordinator,Software Development,Hired,Offered,Not Joined,01-02-2020,,,38683,10,Pawan Soni
+504,Vanya Chopra,Administrator,Training,Hired,Offered,Joined,26-02-2020,,03-05-2020,66356,9,Gourav Prajapati
+505,Anvi Deshmukh,Coordinator,Training,Screening,Offered,Joined,28-03-2022,30-04-2022,19-06-2022,99315,3,Suman Singh
+506,Ira Sharma,Manager,Finance,Screening,Rejected,Not Joined,06-05-2021,03-07-2021,,118280,6,Pawan Soni
+507,Anaya Iyer,Executive,Finance,Final Round,Offered,Not Joined,13-06-2021,,,129912,3,Suman Singh
+508,Ananya Choudhary,Manager,Software Development,Final Round,Rejected,Not Joined,24-09-2022,27-09-2022,03-10-2022,59605,4,Yash Pal
+509,Aadhya Pandey,Specialist,Marketing,Hired,Offered,Joined,07-07-2022,31-08-2022,05-09-2022,118672,0,Pratap Mishra
+510,Prisha Mehta,Developer,Human Resources,Final Round,Offered,Not Joined,13-03-2020,08-04-2020,23-05-2020,82990,3,Suman Singh
+511,Jiya Naidu,Administrator,Software Development,Screening,Rejected,Not Joined,24-07-2021,25-08-2021,12-09-2021,83011,0,Adarsh Mishra
+512,Vihaan Mehta,Analyst,Software Development,Final Round,Offered,Joined,05-05-2024,,24-07-2024,138830,6,Pawan Soni
+513,Vanya Pandey,Specialist,Software Development,Final Round,Offered,Joined,01-11-2023,13-11-2023,08-12-2023,94512,7,Rahul Kumar
+514,Anaya Agarwal,Consultant,Software Development,Screening,Offered,Joined,22-05-2021,23-06-2021,25-07-2021,45615,1,Rahul Kumar
+515,Myra Verma,Engineer,Software Development,Screening,Rejected,Joined,28-06-2023,23-07-2023,,123811,8,Pawan Soni
+516,Diya Pillai,Consultant,Support,Final Round,Rejected,Joined,19-02-2023,04-04-2023,,94840,1,Rahul Kumar
+517,Ananya Verma,Engineer,Software Development,Hired,Offered,Not Joined,12-11-2024,01-01-2025,20-01-2025,33525,4,Rahul Kumar
+518,Navya Chatterjee,Engineer,Support,Hired,Offered,Joined,14-02-2023,09-03-2023,01-04-2023,149326,0,Suman Singh
+519,Ira Patel,Engineer,Software Development,Screening,Rejected,Not Joined,11-02-2022,22-02-2022,24-02-2022,107068,8,Pratap Mishra
+520,Prisha Mehta,Technician,Human Resources,Screening,Offered,Not Joined,19-07-2022,13-08-2022,03-09-2022,117475,0,Gourav Prajapati
+521,Reyansh Choudhary,Manager,Software Development,Screening,Offered,Not Joined,10-10-2021,03-11-2021,,105172,4,Yash Pal
+522,Prisha Mehta,Administrator,QA and Testing,Final Round,Offered,Not Joined,24-10-2021,30-10-2021,,40048,10,Shivam Pandey
+523,Ananya Chopra,Executive,QA and Testing,Final Round,Rejected,Joined,14-05-2024,26-06-2024,31-07-2024,97662,10,Adarsh Mishra
+524,Anvi Siddiqui,Analyst,Human Resources,Screening,Rejected,Joined,07-08-2024,19-09-2024,,49365,1,Suman Singh
+525,Navya Khan,Specialist,Support,Hired,Offered,Not Joined,22-12-2021,09-02-2022,,51048,3,Shivam Pandey
+526,Arjun Chopra,Engineer,Support,Final Round,Rejected,Not Joined,13-04-2024,29-04-2024,,114793,9,Adarsh Mishra
+527,Ishaan Agarwal,Consultant,QA and Testing,Screening,Offered,Not Joined,09-03-2021,18-03-2021,,147506,1,Adarsh Mishra
+528,Navya Chatterjee,Manager,QA and Testing,Screening,Offered,Joined,10-10-2022,,10-12-2022,45812,9,Pawan Soni
+529,Ananya Patel,Administrator,Software Development,Final Round,Offered,Not Joined,08-02-2023,19-03-2023,,58063,1,Shiksha Sharma
+530,Vivaan Choudhary,Consultant,Marketing,Screening,Offered,Not Joined,09-07-2023,03-09-2023,,62289,0,Gourav Prajapati
+531,Kabir Sharma,Administrator,Human Resources,Screening,Offered,Joined,16-06-2021,01-08-2021,,113748,7,Suman Singh
+532,Myra Bose,Engineer,Training,Final Round,Rejected,Joined,28-09-2020,14-10-2020,08-12-2020,68983,9,Gourav Prajapati
+533,Meera Khan,Engineer,Finance,Hired,Offered,Not Joined,21-08-2021,11-09-2021,07-11-2021,73610,0,Rahul Kumar
+534,AdITya Chatterjee,Executive,Support,Screening,Rejected,Not Joined,23-03-2020,09-04-2020,12-05-2020,114066,10,Pawan Soni
+535,Reyansh Nair,Analyst,Software Development,Screening,Offered,Joined,05-11-2023,,02-12-2023,130611,7,Adarsh Mishra
+536,Myra Choudhary,Developer,Finance,Hired,Offered,Not Joined,14-11-2024,,,53840,2,Rahul Kumar
+537,Ira Nair,Administrator,Finance,Hired,Offered,Not Joined,08-10-2023,,12-10-2023,52119,10,Yash Pal
+538,Arjun Gupta,Specialist,QA and Testing,Screening,Offered,Joined,14-10-2023,22-11-2023,,89468,4,Rahul Kumar
+539,Ishaan Kulkarni,Technician,Finance,Hired,Offered,Joined,23-04-2020,07-05-2020,20-05-2020,67089,1,Shivam Pandey
+540,Aarav Kulkarni,Analyst,Human Resources,Screening,Rejected,Joined,14-03-2023,04-05-2023,14-05-2023,90052,6,Suman Singh
+541,Jiya Bose,Coordinator,Software Development,Final Round,Rejected,Not Joined,05-08-2020,,21-10-2020,36830,0,Rahul Kumar
+542,Vanya Verma,Engineer,Software Development,Screening,Rejected,Not Joined,12-08-2021,20-09-2021,02-11-2021,47332,0,Suman Singh
+543,Aadhya Patel,Technician,Training,Hired,Offered,Not Joined,09-03-2024,,,35788,5,Yash Pal
+544,Navya Kulkarni,Analyst,Software Development,Final Round,Rejected,Not Joined,24-05-2023,17-06-2023,,94392,2,Rahul Kumar
+545,Vivaan Chopra,Developer,QA and Testing,Hired,Offered,Joined,21-11-2024,12-01-2025,,91228,6,Shiksha Sharma
+546,Jiya Pillai,Technician,Training,Final Round,Offered,Joined,02-08-2020,,,143793,1,Pratap Mishra
+547,Ishaan Naidu,Administrator,Training,Screening,Offered,Joined,24-03-2021,26-04-2021,,130696,10,Rahul Kumar
+548,Diya Mehta,Executive,QA and Testing,Screening,Offered,Not Joined,01-06-2020,,,138881,5,Yash Pal
+549,Aarav Patel,Engineer,Software Development,Screening,Rejected,Not Joined,09-11-2023,18-12-2023,30-01-2024,148866,1,Rahul Kumar
+550,Ananya Verma,Manager,Finance,Screening,Rejected,Joined,26-01-2021,09-03-2021,,131040,5,Pawan Soni
+551,Siya Bose,Analyst,Support,Screening,Offered,Joined,28-01-2020,11-02-2020,22-02-2020,126454,8,Rahul Kumar
+552,Aarohi Reddy,Coordinator,Software Development,Final Round,Rejected,Not Joined,12-03-2024,24-04-2024,01-05-2024,41825,2,Suman Singh
+553,Navya Gupta,Engineer,QA and Testing,Final Round,Rejected,Joined,06-10-2022,03-11-2022,14-12-2022,94922,6,Rahul Kumar
+554,Aadhya Kulkarni,Developer,Marketing,Screening,Rejected,Joined,14-08-2022,20-08-2022,,36255,6,Gourav Prajapati
+555,Navya Mehta,Technician,Training,Screening,Rejected,Not Joined,04-09-2020,07-10-2020,,95987,6,Suman Singh
+556,Sai Bose,Engineer,Software Development,Final Round,Rejected,Not Joined,22-12-2020,21-01-2021,,117852,6,Adarsh Mishra
+557,Sai Chopra,Developer,Software Development,Screening,Rejected,Joined,11-05-2024,09-07-2024,,81764,3,Rahul Kumar
+558,Jiya Bose,Administrator,Training,Final Round,Rejected,Not Joined,21-03-2020,21-04-2020,21-05-2020,118487,8,Pratap Mishra
+559,Reyansh Mehta,Engineer,Finance,Hired,Offered,Joined,05-02-2022,14-02-2022,,61690,2,Suman Singh
+560,Myra Jain,Technician,Finance,Hired,Offered,Joined,03-04-2024,23-04-2024,12-06-2024,88361,6,Rahul Kumar
+561,Krishna Chopra,Analyst,Finance,Final Round,Offered,Not Joined,28-01-2023,,05-04-2023,123466,5,Suman Singh
+562,Anvi Pillai,Analyst,Support,Final Round,Rejected,Not Joined,24-08-2023,01-10-2023,09-11-2023,118954,1,Pawan Soni
+563,Navya Naidu,Specialist,Training,Hired,Offered,Not Joined,02-12-2021,05-01-2022,,111618,2,Adarsh Mishra
+564,Kabir Chopra,Technician,Human Resources,Final Round,Offered,Joined,14-12-2023,16-12-2023,27-12-2023,108918,6,Adarsh Mishra
+565,Navya Pandey,Specialist,Support,Final Round,Offered,Joined,24-05-2021,09-07-2021,03-08-2021,117432,0,Pawan Soni
+566,Aadhya Mehta,Executive,Support,Final Round,Offered,Joined,07-03-2021,18-03-2021,26-04-2021,77026,3,Suman Singh
+567,Anaya Verma,Manager,QA and Testing,Final Round,Offered,Joined,06-11-2022,,,63793,7,Yash Pal
+568,Ishaan Jain,Consultant,Software Development,Screening,Offered,Joined,25-01-2022,23-03-2022,,89917,5,Rahul Kumar
+569,Vihaan Pillai,Engineer,Software Development,Hired,Offered,Joined,20-10-2020,10-12-2020,03-02-2021,50582,6,Rahul Kumar
+570,Vihaan Jain,Specialist,Software Development,Hired,Offered,Joined,16-09-2023,02-11-2023,,130798,7,Shivam Pandey
+571,Sai Gupta,Analyst,Finance,Screening,Rejected,Not Joined,11-08-2021,30-08-2021,,128724,8,Rahul Kumar
+572,Navya Siddiqui,Consultant,Human Resources,Screening,Rejected,Joined,26-03-2021,23-04-2021,20-05-2021,124060,0,Rahul Kumar
+573,Sai Khan,Engineer,QA and Testing,Hired,Offered,Joined,11-06-2020,07-07-2020,26-08-2020,134735,9,Gourav Prajapati
+574,Kabir Patel,Specialist,Finance,Final Round,Offered,Not Joined,22-07-2023,05-09-2023,,101358,2,Rahul Kumar
+575,Kabir Gupta,Engineer,QA and Testing,Final Round,Rejected,Joined,13-11-2022,02-01-2023,15-01-2023,58014,0,Suman Singh
+576,Meera Kapoor,Engineer,Software Development,Screening,Rejected,Joined,10-09-2024,14-10-2024,,85410,0,Adarsh Mishra
+577,Aarohi Mehta,Engineer,Software Development,Screening,Offered,Not Joined,09-06-2020,20-07-2020,22-08-2020,89394,9,Suman Singh
+578,Meera Pandey,Consultant,QA and Testing,Screening,Offered,Not Joined,19-12-2021,25-01-2022,12-03-2022,136834,4,Suman Singh
+579,Ananya Reddy,Administrator,QA and Testing,Final Round,Rejected,Joined,24-09-2023,,,84008,8,Gourav Prajapati
+580,Aadhya Chopra,Technician,QA and Testing,Final Round,Rejected,Not Joined,14-01-2020,11-03-2020,20-03-2020,113422,4,Suman Singh
+581,Sai Jain,Consultant,Software Development,Final Round,Rejected,Joined,16-12-2023,01-02-2024,28-02-2024,99355,1,Rahul Kumar
+582,Sai Pillai,Specialist,Software Development,Screening,Rejected,Joined,16-08-2021,,06-10-2021,35279,9,Rahul Kumar
+583,Kabir Choudhary,Engineer,Software Development,Hired,Offered,Not Joined,10-06-2020,,24-07-2020,146530,1,Rahul Kumar
+584,Aarav Mehta,Consultant,Software Development,Hired,Offered,Not Joined,27-03-2021,14-05-2021,,89293,4,Rahul Kumar
+585,Vanya Jain,Developer,Finance,Screening,Rejected,Not Joined,27-08-2023,13-10-2023,,125402,7,Gourav Prajapati
+586,Siya Iyer,Executive,Finance,Screening,Offered,Not Joined,22-10-2020,01-12-2020,28-12-2020,143502,8,Suman Singh
+587,Jiya Kulkarni,Consultant,QA and Testing,Hired,Offered,Joined,21-10-2020,11-12-2020,30-01-2021,129302,8,Pratap Mishra
+588,Anaya Sharma,Manager,Software Development,Screening,Offered,Joined,07-09-2024,26-10-2024,,138749,1,Rahul Kumar
+589,Prisha Verma,Technician,QA and Testing,Hired,Offered,Not Joined,20-09-2020,,,99193,5,Suman Singh
+590,Ira Kapoor,Analyst,QA and Testing,Hired,Offered,Joined,03-05-2023,,18-05-2023,118946,9,Yash Pal
+591,Jiya Verma,Analyst,QA and Testing,Hired,Offered,Joined,11-10-2020,23-10-2020,,79219,3,Suman Singh
+592,Prisha Iyer,Technician,QA and Testing,Screening,Rejected,Joined,08-04-2020,27-05-2020,,102498,2,Shivam Pandey
+593,Krishna Sharma,Analyst,Finance,Screening,Offered,Joined,01-08-2020,28-08-2020,08-10-2020,46458,9,Gourav Prajapati
+594,Meera Reddy,Coordinator,Training,Hired,Offered,Joined,15-07-2024,21-07-2024,14-09-2024,85542,6,Pawan Soni
+595,Vanya Kulkarni,Developer,Human Resources,Hired,Offered,Not Joined,27-01-2020,26-02-2020,20-04-2020,79827,0,Shivam Pandey
+596,Vivaan Kapoor,Consultant,QA and Testing,Hired,Offered,Joined,27-10-2021,29-11-2021,,48304,0,Suman Singh
+597,Ananya Pandey,Specialist,Software Development,Final Round,Rejected,Not Joined,20-04-2023,23-05-2023,14-07-2023,74778,7,Suman Singh
+598,Jiya Jain,Engineer,Software Development,Final Round,Offered,Joined,11-10-2023,13-10-2023,,147344,8,Rahul Kumar
+599,Meera Nair,Manager,QA and Testing,Hired,Offered,Joined,03-09-2023,24-10-2023,20-12-2023,138457,5,Adarsh Mishra
+600,Jiya Sharma,Manager,Human Resources,Final Round,Offered,Not Joined,27-03-2023,,07-07-2023,129407,1,Gourav Prajapati
+601,Meera Kulkarni,Coordinator,Human Resources,Final Round,Rejected,Joined,03-04-2022,26-05-2022,05-07-2022,122663,0,Shiksha Sharma
+602,Vihaan Agarwal,Administrator,Support,Final Round,Offered,Joined,27-04-2020,07-06-2020,03-07-2020,119441,4,Suman Singh
+603,Arjun Agarwal,Administrator,Marketing,Hired,Offered,Joined,05-10-2020,22-11-2020,,120831,2,Suman Singh
+604,Diya Nair,Engineer,Finance,Final Round,Rejected,Not Joined,01-08-2024,29-08-2024,10-10-2024,91156,8,Yash Pal
+605,Anvi Iyer,Engineer,Support,Final Round,Rejected,Not Joined,25-09-2022,,,40722,4,Gourav Prajapati
+606,Krishna Chopra,Developer,Training,Final Round,Offered,Joined,14-12-2021,,,33148,3,Rahul Kumar
+607,Ananya Verma,Specialist,Human Resources,Hired,Offered,Not Joined,04-04-2022,05-05-2022,21-05-2022,105882,5,Rahul Kumar
+608,Jiya Gupta,Developer,QA and Testing,Final Round,Offered,Not Joined,02-01-2020,27-01-2020,,43346,1,Adarsh Mishra
+609,Siya Mehta,Administrator,QA and Testing,Final Round,Offered,Joined,10-01-2024,05-03-2024,,86112,9,Pawan Soni
+610,Myra Reddy,Specialist,QA and Testing,Hired,Offered,Joined,22-11-2022,,14-01-2023,107710,8,Suman Singh
+611,Aarohi Khan,Technician,Software Development,Screening,Rejected,Joined,21-03-2024,23-04-2024,10-05-2024,37928,4,Suman Singh
+612,Aarohi Kulkarni,Administrator,Human Resources,Hired,Offered,Not Joined,14-10-2022,16-11-2022,,78343,9,Adarsh Mishra
+613,Vivaan Iyer,Consultant,Training,Screening,Offered,Not Joined,22-10-2024,05-12-2024,15-12-2024,113958,9,Rahul Kumar
+614,Jiya Siddiqui,Administrator,Marketing,Final Round,Rejected,Not Joined,07-06-2020,20-07-2020,,89546,8,Pawan Soni
+615,Jiya Iyer,Technician,QA and Testing,Hired,Offered,Not Joined,01-04-2023,12-05-2023,27-05-2023,73452,4,Gourav Prajapati
+616,Aarohi Sharma,Manager,Software Development,Hired,Offered,Joined,06-07-2021,28-08-2021,,106767,2,Rahul Kumar
+617,Sai Iyer,Analyst,Software Development,Hired,Offered,Joined,07-01-2020,,,140478,7,Pawan Soni
+618,Siya Nair,Manager,QA and Testing,Hired,Offered,Not Joined,27-01-2020,11-03-2020,20-03-2020,116626,6,Rahul Kumar
+619,AdITya Mehta,Developer,Marketing,Hired,Offered,Not Joined,14-10-2024,10-12-2024,,86300,4,Suman Singh
+620,Ira Kulkarni,Developer,Software Development,Hired,Offered,Not Joined,19-10-2020,01-11-2020,26-12-2020,106556,8,Rahul Kumar
+621,Diya Deshmukh,Manager,Human Resources,Screening,Rejected,Not Joined,03-12-2021,23-01-2022,,72182,5,Suman Singh
+622,Aadhya Agarwal,Administrator,Marketing,Screening,Offered,Joined,16-12-2024,31-01-2025,,143137,7,Adarsh Mishra
+623,Siya Naidu,Developer,Marketing,Final Round,Rejected,Joined,10-04-2023,,,88262,8,Suman Singh
+624,Vanya Patel,Executive,Training,Final Round,Rejected,Not Joined,02-10-2021,01-11-2021,,65785,0,Pawan Soni
+625,Meera Gupta,Specialist,Software Development,Final Round,Offered,Not Joined,15-03-2020,30-03-2020,,39351,8,Suman Singh
+626,Diya Patel,Analyst,Marketing,Screening,Rejected,Joined,07-09-2020,29-09-2020,12-10-2020,142066,3,Suman Singh
+627,Siya Bose,Administrator,Software Development,Screening,Offered,Not Joined,10-05-2020,02-07-2020,25-07-2020,49566,8,Rahul Kumar
+628,Aadhya Iyer,Consultant,Human Resources,Screening,Rejected,Not Joined,24-04-2021,11-06-2021,,140860,6,Rahul Kumar
+629,Myra Pillai,Engineer,Support,Hired,Offered,Not Joined,14-12-2023,28-12-2023,,136220,1,Suman Singh
+630,Siya Pillai,Analyst,Training,Screening,Offered,Joined,14-04-2022,12-05-2022,,73286,4,Rahul Kumar
+631,Siya Chopra,Technician,Training,Final Round,Rejected,Not Joined,13-04-2023,,,102470,8,Rahul Kumar
+632,Sai Chopra,Manager,Software Development,Final Round,Offered,Joined,20-12-2020,21-01-2021,23-01-2021,89593,0,Shiksha Sharma
+633,Navya Bose,Developer,QA and Testing,Hired,Offered,Not Joined,01-09-2022,12-09-2022,,148435,2,Adarsh Mishra
+634,Jiya Pandey,Technician,Support,Screening,Rejected,Joined,10-04-2021,08-05-2021,30-06-2021,66102,2,Rahul Kumar
+635,Siya Deshmukh,Coordinator,Software Development,Final Round,Rejected,Not Joined,15-03-2020,20-03-2020,,41941,7,Suman Singh
+636,Kabir Bose,Administrator,Software Development,Hired,Offered,Joined,23-06-2023,,01-10-2023,86633,6,Rahul Kumar
+637,Vihaan Bose,Engineer,Software Development,Hired,Offered,Not Joined,06-11-2023,21-12-2023,,125228,1,Suman Singh
+638,Aarohi Gupta,Manager,Marketing,Final Round,Rejected,Not Joined,25-07-2023,,,35850,10,Suman Singh
+639,Anvi Siddiqui,Executive,QA and Testing,Screening,Rejected,Joined,21-02-2020,06-04-2020,,45031,10,Pratap Mishra
+640,Myra Gupta,Manager,Human Resources,Screening,Offered,Not Joined,24-11-2022,,25-01-2023,140305,9,Pawan Soni
+641,Kabir Mehta,Consultant,Human Resources,Final Round,Offered,Joined,20-01-2021,27-01-2021,,65815,6,Gourav Prajapati
+642,Vivaan Pandey,Consultant,Software Development,Final Round,Offered,Joined,06-06-2023,20-06-2023,,36870,1,Suman Singh
+643,Krishna Chatterjee,Coordinator,Training,Hired,Offered,Not Joined,25-07-2020,,,137548,8,Rahul Kumar
+644,Diya Kapoor,Developer,Finance,Final Round,Offered,Not Joined,04-04-2020,26-05-2020,19-07-2020,111877,6,Pawan Soni
+645,Reyansh Mehta,Specialist,Marketing,Hired,Offered,Not Joined,14-07-2024,22-07-2024,,57887,4,Adarsh Mishra
+646,Meera Deshmukh,Specialist,QA and Testing,Hired,Offered,Not Joined,22-02-2021,16-04-2021,04-05-2021,43344,8,Adarsh Mishra
+647,Jiya Bose,Developer,Human Resources,Hired,Offered,Not Joined,20-02-2022,,,149551,6,Suman Singh
+648,Anaya Naidu,Engineer,Marketing,Hired,Offered,Not Joined,21-09-2023,08-11-2023,,61922,10,Suman Singh
+649,Reyansh Jain,Executive,Training,Screening,Offered,Joined,12-03-2020,13-04-2020,02-05-2020,88160,10,Pawan Soni
+650,Vivaan Reddy,Executive,Human Resources,Final Round,Offered,Joined,11-05-2021,22-06-2021,,61752,1,Pawan Soni
+651,Diya Iyer,Administrator,Software Development,Final Round,Rejected,Joined,22-01-2024,07-02-2024,,144015,2,Yash Pal
+652,Reyansh Jain,Manager,Training,Screening,Offered,Joined,02-04-2020,13-05-2020,,91220,1,Adarsh Mishra
+653,Sai Deshmukh,Coordinator,Software Development,Final Round,Rejected,Joined,07-12-2021,23-12-2021,20-01-2022,40487,8,Suman Singh
+654,Navya Reddy,Administrator,Marketing,Final Round,Offered,Not Joined,06-07-2023,,,141941,8,Suman Singh
+655,Anvi Kapoor,Analyst,Finance,Final Round,Rejected,Not Joined,18-10-2022,28-10-2022,03-12-2022,93025,8,Adarsh Mishra
+656,Arjun Chopra,Engineer,Finance,Screening,Rejected,Not Joined,23-03-2022,23-04-2022,,81727,1,Pawan Soni
+657,AdITya Khan,Engineer,Training,Final Round,Offered,Joined,10-08-2023,21-09-2023,29-10-2023,131091,8,Suman Singh
+658,Aarohi Verma,Executive,Software Development,Screening,Offered,Joined,16-12-2024,26-01-2025,12-03-2025,77371,5,Rahul Kumar
+659,Arjun Agarwal,Coordinator,Support,Screening,Offered,Joined,20-05-2021,,,123272,2,Suman Singh
+660,Anaya Chopra,Executive,Software Development,Final Round,Rejected,Not Joined,19-12-2023,15-02-2024,21-02-2024,146215,6,Adarsh Mishra
+661,Anvi Gupta,Manager,Support,Screening,Rejected,Joined,24-05-2024,20-06-2024,,128079,1,Adarsh Mishra
+662,Aarav Mehta,Manager,Human Resources,Screening,Rejected,Not Joined,06-01-2022,28-02-2022,01-04-2022,52365,0,Gourav Prajapati
+663,Aadhya Kapoor,Consultant,Marketing,Final Round,Offered,Joined,23-03-2022,01-04-2022,14-04-2022,136060,0,Rahul Kumar
+664,Vanya Mehta,Developer,Human Resources,Final Round,Offered,Not Joined,15-07-2022,,,33888,8,Gourav Prajapati
+665,Aarav Verma,Analyst,Software Development,Hired,Offered,Joined,22-08-2023,10-10-2023,17-10-2023,79239,6,Gourav Prajapati
+666,Navya Patel,Specialist,Software Development,Final Round,Rejected,Joined,25-08-2023,16-09-2023,25-10-2023,79602,5,Suman Singh
+667,Myra Bose,Developer,QA and Testing,Screening,Offered,Not Joined,26-06-2022,03-07-2022,04-07-2022,62576,6,Suman Singh
+668,Aadhya Reddy,Executive,QA and Testing,Hired,Offered,Not Joined,22-10-2023,,,35997,9,Suman Singh
+669,Anvi Deshmukh,Manager,Support,Final Round,Rejected,Joined,20-04-2023,22-05-2023,,55569,5,Rahul Kumar
+670,Anaya Verma,Developer,Software Development,Hired,Offered,Not Joined,26-10-2024,,,45162,6,Suman Singh
+671,Diya Gupta,Manager,Software Development,Screening,Offered,Joined,08-04-2024,22-04-2024,,80264,5,Pawan Soni
+672,Diya Mehta,Developer,Finance,Screening,Rejected,Joined,09-12-2021,21-01-2022,,59334,9,Rahul Kumar
+673,Anvi Bose,Consultant,QA and Testing,Final Round,Offered,Joined,23-07-2022,09-09-2022,,44599,0,Adarsh Mishra
+674,Anvi Mehta,Administrator,Software Development,Hired,Offered,Not Joined,19-12-2022,17-02-2023,,38111,3,Adarsh Mishra
+675,Diya Jain,Consultant,Software Development,Screening,Offered,Joined,11-07-2023,30-08-2023,23-09-2023,90372,9,Yash Pal
+676,Diya Siddiqui,Developer,Support,Final Round,Offered,Joined,27-05-2021,11-06-2021,,120256,1,Shiksha Sharma
+677,Reyansh Choudhary,Analyst,Human Resources,Final Round,Offered,Not Joined,19-12-2022,,01-03-2023,141158,7,Adarsh Mishra
+678,Siya Kulkarni,Developer,Software Development,Screening,Rejected,Not Joined,28-03-2020,29-04-2020,,75653,9,Adarsh Mishra
+679,Kabir Chopra,Consultant,Human Resources,Hired,Offered,Not Joined,17-02-2023,05-04-2023,24-04-2023,135522,10,Rahul Kumar
+680,Arjun Siddiqui,Technician,Support,Hired,Offered,Joined,21-08-2022,01-09-2022,,115359,0,Suman Singh
+681,Diya Jain,Executive,Human Resources,Screening,Offered,Joined,28-12-2022,,10-02-2023,53544,5,Suman Singh
+682,Navya Jain,Executive,Human Resources,Hired,Offered,Joined,21-09-2020,13-10-2020,,108139,0,Rahul Kumar
+683,AdITya Siddiqui,Executive,QA and Testing,Screening,Rejected,Not Joined,26-12-2023,,,45997,2,Suman Singh
+684,Prisha Choudhary,Analyst,Finance,Screening,Offered,Joined,01-04-2024,09-05-2024,15-06-2024,122109,9,Suman Singh
+685,AdITya Pillai,Developer,Software Development,Screening,Offered,Not Joined,05-10-2022,12-10-2022,02-11-2022,136456,9,Adarsh Mishra
+686,Jiya Nair,Manager,Software Development,Hired,Offered,Joined,27-09-2020,04-11-2020,09-12-2020,30697,1,Adarsh Mishra
+687,Reyansh Nair,Developer,QA and Testing,Screening,Rejected,Joined,02-02-2022,,,69135,8,Yash Pal
+688,Krishna Kulkarni,Engineer,QA and Testing,Final Round,Rejected,Joined,14-03-2024,26-04-2024,27-04-2024,98506,0,Pawan Soni
+689,Vihaan Pandey,Engineer,Marketing,Hired,Offered,Joined,17-09-2024,01-10-2024,15-11-2024,47590,5,Suman Singh
+690,Vanya Khan,Manager,QA and Testing,Final Round,Rejected,Not Joined,09-06-2024,18-06-2024,,89777,2,Pawan Soni
+691,Ira Chopra,Manager,QA and Testing,Screening,Rejected,Joined,14-11-2022,29-12-2022,08-01-2023,114904,9,Rahul Kumar
+692,Siya Sharma,Administrator,Software Development,Hired,Offered,Joined,11-03-2023,01-05-2023,29-05-2023,83317,1,Adarsh Mishra
+693,Ananya Agarwal,Developer,Training,Hired,Offered,Joined,03-11-2022,,25-01-2023,59127,4,Rahul Kumar
+694,Kabir Naidu,Technician,QA and Testing,Screening,Rejected,Not Joined,06-02-2020,11-03-2020,27-04-2020,147515,1,Rahul Kumar
+695,Aarohi Pandey,Consultant,Training,Screening,Rejected,Not Joined,25-06-2021,20-07-2021,,120001,1,Pawan Soni
+696,Ishaan Verma,Specialist,Marketing,Hired,Offered,Not Joined,13-03-2021,,06-06-2021,134656,9,Suman Singh
+697,Jiya Iyer,Analyst,Support,Hired,Offered,Not Joined,09-05-2024,06-06-2024,10-07-2024,113188,2,Pratap Mishra
+698,Prisha Verma,Manager,QA and Testing,Final Round,Rejected,Joined,08-12-2020,14-12-2020,,96674,7,Rahul Kumar
+699,Ira Mehta,Executive,Training,Screening,Offered,Joined,17-08-2023,30-09-2023,13-11-2023,128260,2,Pawan Soni
+700,Anaya Pandey,Administrator,Software Development,Screening,Rejected,Joined,22-12-2021,19-02-2022,13-04-2022,98618,5,Suman Singh
+701,Anaya Chatterjee,Engineer,Software Development,Final Round,Rejected,Joined,12-02-2021,07-04-2021,,149805,4,Suman Singh
+702,Kabir Agarwal,Coordinator,Support,Screening,Rejected,Joined,10-02-2024,01-03-2024,01-04-2024,114275,10,Gourav Prajapati
+703,Aarohi Sharma,Administrator,Marketing,Final Round,Rejected,Not Joined,28-10-2023,,,124690,7,Rahul Kumar
+704,Aadhya Chopra,Manager,Support,Screening,Offered,Not Joined,01-06-2023,,,50398,5,Suman Singh
+705,Aarohi Khan,Developer,Marketing,Final Round,Offered,Not Joined,13-08-2021,06-09-2021,,48333,2,Rahul Kumar
+706,Jiya Chopra,Manager,Software Development,Final Round,Offered,Joined,12-01-2023,10-03-2023,05-05-2023,148095,10,Suman Singh
+707,Ishaan Mehta,Executive,QA and Testing,Screening,Rejected,Joined,07-11-2021,08-12-2021,20-01-2022,145574,10,Shiksha Sharma
+708,Siya Jain,Manager,Software Development,Hired,Offered,Joined,24-12-2024,16-02-2025,,119710,9,Gourav Prajapati
+709,Vanya Sharma,Executive,QA and Testing,Final Round,Rejected,Not Joined,27-11-2020,,,110951,6,Suman Singh
+710,Vihaan Agarwal,Coordinator,Human Resources,Final Round,Offered,Not Joined,08-03-2024,26-03-2024,15-05-2024,121900,4,Suman Singh
+711,Krishna Mehta,Developer,Software Development,Hired,Offered,Joined,21-10-2021,01-12-2021,,110801,4,Gourav Prajapati
+712,Kabir Nair,Coordinator,QA and Testing,Final Round,Rejected,Not Joined,13-01-2020,,,36770,0,Suman Singh
+713,Jiya Khan,Coordinator,Support,Hired,Offered,Joined,12-05-2020,,22-06-2020,72157,8,Suman Singh
+714,Vihaan Khan,Developer,Training,Final Round,Rejected,Not Joined,09-08-2022,07-10-2022,,31790,9,Rahul Kumar
+715,Anvi Naidu,Consultant,Human Resources,Final Round,Offered,Not Joined,24-06-2022,15-08-2022,,146286,3,Suman Singh
+716,Vivaan Naidu,Coordinator,Finance,Screening,Rejected,Joined,24-11-2021,,10-01-2022,74944,8,Suman Singh
+717,Vivaan Jain,Coordinator,Support,Screening,Rejected,Not Joined,18-04-2023,04-06-2023,,124021,2,Suman Singh
+718,Anaya Sharma,Developer,Support,Final Round,Offered,Not Joined,16-02-2023,,18-04-2023,134122,1,Pawan Soni
+719,Anaya Gupta,Developer,Marketing,Screening,Rejected,Not Joined,22-08-2023,26-09-2023,,54125,7,Pawan Soni
+720,Aarav Reddy,Technician,Support,Screening,Rejected,Not Joined,07-10-2021,14-11-2021,,65194,6,Rahul Kumar
+721,Kabir Verma,Developer,Software Development,Hired,Offered,Joined,02-04-2021,07-05-2021,,137926,2,Gourav Prajapati
+722,Meera Deshmukh,Specialist,Human Resources,Hired,Offered,Joined,01-02-2024,14-03-2024,06-04-2024,72550,7,Shiksha Sharma
+723,Sai Agarwal,Engineer,Training,Screening,Offered,Not Joined,08-06-2020,25-07-2020,,112081,1,Rahul Kumar
+724,Prisha Nair,Executive,Marketing,Final Round,Offered,Not Joined,11-04-2023,29-04-2023,13-05-2023,42280,1,Suman Singh
+725,Sai Chopra,Administrator,Software Development,Screening,Offered,Not Joined,06-08-2021,,,53295,5,Pawan Soni
+726,Navya Iyer,Technician,Support,Final Round,Offered,Joined,03-04-2024,13-04-2024,18-04-2024,109074,7,Rahul Kumar
+727,Aarav Nair,Engineer,QA and Testing,Hired,Offered,Not Joined,01-07-2023,,31-08-2023,31769,3,Gourav Prajapati
+728,Jiya Gupta,Coordinator,Software Development,Final Round,Rejected,Joined,24-09-2020,16-11-2020,,61956,1,Rahul Kumar
+729,Vihaan Sharma,Engineer,Software Development,Screening,Rejected,Joined,09-12-2024,19-01-2025,23-02-2025,48590,5,Adarsh Mishra
+730,Arjun Chatterjee,Analyst,Software Development,Screening,Rejected,Joined,08-01-2021,05-02-2021,02-03-2021,59428,5,Yash Pal
+731,Vihaan Chatterjee,Manager,Training,Screening,Offered,Joined,03-06-2022,13-07-2022,,53771,2,Rahul Kumar
+732,Kabir Chatterjee,Manager,Support,Final Round,Rejected,Not Joined,22-11-2021,12-12-2021,21-01-2022,40009,0,Pawan Soni
+733,Siya Siddiqui,Technician,Support,Hired,Offered,Not Joined,05-11-2021,26-11-2021,,41855,8,Adarsh Mishra
+734,Ananya Choudhary,Executive,Human Resources,Screening,Rejected,Not Joined,25-03-2021,,12-05-2021,62231,9,Suman Singh
+735,Aadhya Pillai,Consultant,Software Development,Hired,Offered,Joined,16-09-2023,21-10-2023,,105743,2,Pawan Soni
+736,Aarav Chatterjee,Consultant,Support,Hired,Offered,Joined,12-04-2020,13-04-2020,,141323,7,Adarsh Mishra
+737,Ira Khan,Coordinator,Software Development,Hired,Offered,Joined,05-08-2022,,22-11-2022,48753,4,Rahul Kumar
+738,Jiya Mehta,Administrator,QA and Testing,Final Round,Offered,Joined,14-12-2020,,,62118,6,Yash Pal
+739,Arjun Kapoor,Technician,Training,Hired,Offered,Not Joined,27-10-2020,19-12-2020,,132419,10,Gourav Prajapati
+740,Meera Verma,Administrator,Software Development,Hired,Offered,Joined,05-02-2022,09-02-2022,,144815,2,Suman Singh
+741,Prisha Reddy,Analyst,Support,Hired,Offered,Joined,27-12-2024,13-01-2025,,79487,1,Shiksha Sharma
+742,Siya Kapoor,Consultant,Finance,Hired,Offered,Not Joined,20-07-2021,24-07-2021,08-08-2021,138429,4,Rahul Kumar
+743,Navya Chopra,Analyst,Training,Hired,Offered,Not Joined,26-01-2021,19-02-2021,02-04-2021,33676,7,Suman Singh
+744,Reyansh Deshmukh,Engineer,Software Development,Final Round,Offered,Joined,18-03-2022,25-03-2022,,65280,8,Suman Singh
+745,Aadhya Verma,Engineer,Marketing,Hired,Offered,Joined,02-10-2024,08-11-2024,29-12-2024,82184,10,Pratap Mishra
+746,Jiya Pandey,Manager,Training,Final Round,Offered,Joined,24-07-2022,,25-08-2022,92515,5,Suman Singh
+747,AdITya Nair,Manager,Software Development,Hired,Offered,Joined,05-03-2022,18-04-2022,,95748,1,Shiksha Sharma
+748,Vanya Khan,Engineer,Marketing,Screening,Rejected,Joined,11-03-2023,30-03-2023,23-04-2023,39830,8,Suman Singh
+749,Aarav Jain,Analyst,Software Development,Hired,Offered,Joined,16-11-2024,23-11-2024,,68745,5,Suman Singh
+750,AdITya Gupta,Developer,Support,Final Round,Rejected,Not Joined,19-05-2020,12-06-2020,05-07-2020,87939,9,Rahul Kumar
+751,Kabir Bose,Executive,Support,Screening,Offered,Not Joined,16-10-2020,19-10-2020,12-11-2020,71110,1,Pawan Soni
+752,Ishaan Pandey,Engineer,Software Development,Screening,Offered,Joined,14-11-2020,17-12-2020,15-01-2021,50258,0,Suman Singh
+753,AdITya Iyer,Executive,Marketing,Final Round,Offered,Not Joined,06-07-2022,12-08-2022,07-09-2022,147981,9,Pawan Soni
+754,Siya Khan,Coordinator,Software Development,Final Round,Offered,Not Joined,06-02-2020,24-03-2020,31-03-2020,57870,1,Rahul Kumar
+755,Arjun Choudhary,Developer,QA and Testing,Hired,Offered,Joined,15-05-2020,18-05-2020,22-06-2020,38178,1,Suman Singh
+756,Aarav Pandey,Executive,QA and Testing,Final Round,Offered,Joined,07-08-2023,,,40709,5,Rahul Kumar
+757,Ishaan Kapoor,Engineer,QA and Testing,Final Round,Rejected,Not Joined,17-07-2023,,,84932,4,Pawan Soni
+758,Jiya Khan,Specialist,QA and Testing,Screening,Rejected,Joined,23-09-2023,13-11-2023,24-11-2023,56025,2,Yash Pal
+759,Anvi Patel,Engineer,Marketing,Final Round,Offered,Not Joined,05-10-2024,26-10-2024,,118335,9,Pawan Soni
+760,Arjun Nair,Technician,Software Development,Screening,Offered,Joined,24-09-2022,25-09-2022,24-10-2022,85073,4,Rahul Kumar
+761,Reyansh Pandey,Administrator,Training,Final Round,Rejected,Joined,07-07-2024,30-07-2024,,137354,1,Rahul Kumar
+762,Aarohi Chatterjee,Consultant,Software Development,Screening,Rejected,Joined,15-11-2023,12-12-2023,,78905,1,Suman Singh
+763,Siya Kulkarni,Executive,Training,Final Round,Offered,Joined,06-10-2024,10-11-2024,,115147,2,Suman Singh
+764,Vanya Pillai,Manager,Training,Final Round,Offered,Not Joined,04-07-2024,05-08-2024,,131827,2,Rahul Kumar
+765,Aadhya Mehta,Specialist,QA and Testing,Final Round,Rejected,Not Joined,04-07-2024,,,59351,8,Rahul Kumar
+766,Navya Pandey,Coordinator,Software Development,Final Round,Offered,Joined,09-11-2022,,22-01-2023,140201,2,Rahul Kumar
+767,Ira Bose,Coordinator,Software Development,Screening,Rejected,Joined,19-03-2022,16-04-2022,02-05-2022,46891,4,Pawan Soni
+768,Navya Iyer,Manager,Finance,Hired,Offered,Not Joined,11-07-2021,14-08-2021,25-08-2021,64108,2,Suman Singh
+769,Navya Sharma,Administrator,Software Development,Hired,Offered,Not Joined,03-04-2022,,11-04-2022,89468,5,Gourav Prajapati
+770,Kabir Chopra,Consultant,Marketing,Hired,Offered,Not Joined,21-04-2021,18-06-2021,,48844,4,Suman Singh
+771,Vanya Mehta,Manager,Finance,Final Round,Rejected,Joined,04-02-2024,,,77369,1,Pratap Mishra
+772,Navya Gupta,Technician,Marketing,Hired,Offered,Not Joined,16-02-2023,08-04-2023,,149053,10,Pawan Soni
+773,Sai Pandey,Administrator,Human Resources,Screening,Offered,Joined,10-03-2021,11-03-2021,08-05-2021,93427,2,Rahul Kumar
+774,Vihaan Chopra,Administrator,Support,Screening,Offered,Joined,24-09-2021,11-10-2021,,147777,5,Rahul Kumar
+775,Anvi Jain,Analyst,QA and Testing,Final Round,Offered,Joined,05-06-2020,20-06-2020,26-06-2020,68577,2,Rahul Kumar
+776,Reyansh Agarwal,Developer,Support,Screening,Rejected,Not Joined,17-07-2023,,11-10-2023,107015,9,Pawan Soni
+777,Myra Khan,Administrator,Training,Final Round,Rejected,Joined,24-04-2021,26-05-2021,,104336,5,Rahul Kumar
+778,Sai Verma,Consultant,Human Resources,Screening,Rejected,Not Joined,27-11-2022,02-12-2022,31-12-2022,99533,5,Suman Singh
+779,Ananya Khan,Developer,Finance,Hired,Offered,Joined,04-01-2023,16-01-2023,,132172,10,Suman Singh
+780,Jiya Patel,Coordinator,Software Development,Screening,Rejected,Joined,11-01-2020,25-02-2020,,108879,2,Rahul Kumar
+781,Jiya Deshmukh,Manager,Software Development,Screening,Rejected,Not Joined,04-04-2024,10-05-2024,,55837,10,Gourav Prajapati
+782,Vihaan Mehta,Technician,Human Resources,Screening,Rejected,Not Joined,02-08-2023,20-08-2023,,32337,9,Adarsh Mishra
+783,Vivaan Pillai,Consultant,Finance,Final Round,Offered,Joined,05-05-2023,28-06-2023,24-07-2023,84405,3,Shivam Pandey
+784,AdITya Pillai,Specialist,QA and Testing,Screening,Offered,Not Joined,25-06-2022,18-07-2022,13-08-2022,94662,7,Adarsh Mishra
+785,Vivaan Sharma,Developer,QA and Testing,Final Round,Rejected,Joined,04-10-2022,,,148263,3,Pawan Soni
+786,Ishaan Verma,Manager,QA and Testing,Final Round,Offered,Not Joined,23-01-2024,19-03-2024,23-03-2024,136494,9,Suman Singh
+787,Prisha Siddiqui,Manager,Support,Final Round,Offered,Not Joined,06-12-2022,04-02-2023,13-02-2023,98388,4,Adarsh Mishra
+788,Ananya Choudhary,Coordinator,Finance,Final Round,Rejected,Joined,22-08-2024,23-09-2024,11-10-2024,61768,2,Yash Pal
+789,Aarav Pandey,Coordinator,Support,Final Round,Offered,Not Joined,16-02-2020,,,107401,4,Gourav Prajapati
+790,Anaya Mehta,Developer,Training,Final Round,Rejected,Not Joined,15-12-2022,26-01-2023,05-02-2023,132238,4,Rahul Kumar
+791,Diya Kulkarni,Administrator,QA and Testing,Hired,Offered,Not Joined,09-02-2021,09-03-2021,20-03-2021,61531,4,Adarsh Mishra
+792,Diya Reddy,Technician,Software Development,Final Round,Offered,Joined,09-03-2023,11-03-2023,,82026,1,Yash Pal
+793,Aarohi Mehta,Engineer,QA and Testing,Final Round,Rejected,Joined,02-06-2024,01-07-2024,,107863,8,Shiksha Sharma
+794,Vihaan Pandey,Engineer,Software Development,Hired,Offered,Joined,16-10-2024,,17-12-2024,105396,1,Rahul Kumar
+795,Krishna Deshmukh,Executive,Finance,Final Round,Offered,Joined,18-02-2021,25-02-2021,15-03-2021,65162,9,Yash Pal
+796,Meera Kulkarni,Administrator,Support,Screening,Offered,Joined,26-03-2021,,02-05-2021,111542,3,Adarsh Mishra
+797,Diya Gupta,Developer,Software Development,Final Round,Rejected,Joined,08-12-2022,19-12-2022,09-01-2023,86088,7,Rahul Kumar
+798,Sai Pandey,Engineer,QA and Testing,Final Round,Rejected,Joined,09-03-2020,05-05-2020,,44337,5,Pawan Soni
+799,Krishna Reddy,Consultant,Software Development,Hired,Offered,Joined,22-10-2020,10-11-2020,03-01-2021,89325,1,Rahul Kumar
+800,Ishaan Chatterjee,Technician,Software Development,Final Round,Rejected,Not Joined,09-09-2022,22-10-2022,23-11-2022,142322,4,Gourav Prajapati
+801,Meera Sharma,Developer,Support,Hired,Offered,Not Joined,22-05-2020,25-06-2020,,127125,1,Rahul Kumar
+802,Siya Nair,Manager,QA and Testing,Screening,Rejected,Joined,24-04-2022,30-04-2022,13-05-2022,146391,8,Suman Singh
+803,Reyansh Verma,Administrator,Support,Screening,Rejected,Joined,14-10-2023,01-11-2023,,133877,3,Suman Singh
+804,Diya Jain,Technician,Software Development,Hired,Offered,Joined,01-02-2022,05-03-2022,,134829,9,Adarsh Mishra
+805,Prisha Mehta,Engineer,QA and Testing,Final Round,Offered,Not Joined,02-08-2020,16-08-2020,04-09-2020,36540,8,Yash Pal
+806,Anaya Pandey,Consultant,Software Development,Hired,Offered,Joined,10-06-2021,31-07-2021,,106706,10,Suman Singh
+807,Aarohi Iyer,Executive,Training,Final Round,Offered,Not Joined,02-04-2022,03-05-2022,02-07-2022,52715,8,Suman Singh
+808,Reyansh Agarwal,Developer,Software Development,Screening,Offered,Not Joined,05-10-2022,18-11-2022,,112355,3,Rahul Kumar
+809,Navya Mehta,Developer,QA and Testing,Final Round,Rejected,Not Joined,13-03-2024,03-05-2024,,85116,7,Shiksha Sharma
+810,Navya Gupta,Developer,Finance,Final Round,Offered,Not Joined,18-01-2023,,11-03-2023,104130,6,Adarsh Mishra
+811,Aarav Siddiqui,Consultant,Finance,Hired,Offered,Joined,05-07-2020,31-07-2020,12-09-2020,44031,3,Suman Singh
+812,Aadhya Patel,Engineer,Human Resources,Screening,Offered,Joined,27-02-2024,17-03-2024,23-04-2024,94920,4,Adarsh Mishra
+813,Kabir Nair,Analyst,Software Development,Hired,Offered,Joined,21-11-2021,,,109140,9,Pawan Soni
+814,Aadhya Sharma,Consultant,Human Resources,Final Round,Offered,Joined,08-02-2024,22-02-2024,,54123,7,Rahul Kumar
+815,Myra Pandey,Administrator,Software Development,Final Round,Offered,Joined,27-05-2024,,19-08-2024,116175,10,Pawan Soni
+816,Reyansh Choudhary,Technician,Software Development,Final Round,Offered,Not Joined,24-09-2021,08-11-2021,,80570,10,Gourav Prajapati
+817,Aarav Kulkarni,Technician,Human Resources,Screening,Rejected,Joined,27-07-2023,24-08-2023,,115252,5,Rahul Kumar
+818,Anvi Siddiqui,Analyst,Human Resources,Hired,Offered,Joined,05-06-2020,05-07-2020,31-08-2020,81199,5,Suman Singh
+819,Anvi Naidu,Specialist,Marketing,Screening,Offered,Not Joined,05-11-2021,28-11-2021,09-01-2022,81633,3,Rahul Kumar
+820,Sai Naidu,Consultant,Software Development,Screening,Rejected,Joined,16-07-2023,24-08-2023,06-10-2023,106116,6,Suman Singh
+821,Vivaan Sharma,Developer,Training,Hired,Offered,Not Joined,27-10-2024,22-11-2024,,129602,9,Rahul Kumar
+822,Siya Khan,Manager,Software Development,Screening,Rejected,Joined,06-02-2021,,22-05-2021,87872,9,Gourav Prajapati
+823,Sai Patel,Manager,Human Resources,Final Round,Rejected,Joined,27-11-2024,29-11-2024,28-01-2025,56179,8,Suman Singh
+824,Krishna Chopra,Developer,Finance,Screening,Offered,Joined,15-08-2022,28-09-2022,17-10-2022,117642,5,Pawan Soni
+825,Aarav Chatterjee,Executive,Human Resources,Screening,Offered,Not Joined,26-01-2021,,03-04-2021,149405,2,Rahul Kumar
+826,Anaya Chatterjee,Specialist,Software Development,Screening,Offered,Joined,19-04-2021,11-06-2021,12-07-2021,144553,7,Gourav Prajapati
+827,Kabir Mehta,Manager,Training,Hired,Offered,Not Joined,05-02-2024,,30-04-2024,67997,10,Rahul Kumar
+828,Sai Kulkarni,Manager,QA and Testing,Screening,Offered,Not Joined,12-12-2023,17-12-2023,,121425,7,Shiksha Sharma
+829,Vivaan Patel,Executive,Human Resources,Hired,Offered,Joined,09-08-2024,,22-09-2024,126190,1,Rahul Kumar
+830,Prisha Deshmukh,Engineer,Software Development,Hired,Offered,Joined,16-04-2020,21-04-2020,,46969,7,Shiksha Sharma
+831,Krishna Nair,Specialist,Human Resources,Final Round,Rejected,Joined,02-02-2020,,,131399,1,Shiksha Sharma
+832,Diya Sharma,Consultant,QA and Testing,Hired,Offered,Not Joined,28-10-2024,22-11-2024,,85945,5,Gourav Prajapati
+833,Aarohi Chatterjee,Coordinator,Human Resources,Final Round,Offered,Joined,04-08-2020,01-10-2020,10-11-2020,59769,3,Yash Pal
+834,Anvi Iyer,Engineer,QA and Testing,Hired,Offered,Not Joined,02-10-2024,,,75831,3,Shivam Pandey
+835,Diya Mehta,Manager,Support,Final Round,Offered,Not Joined,20-03-2022,15-04-2022,16-05-2022,147655,1,Gourav Prajapati
+836,Ira Kulkarni,Coordinator,Human Resources,Final Round,Rejected,Joined,10-12-2023,,22-02-2024,122471,2,Adarsh Mishra
+837,Anaya Iyer,Analyst,Training,Screening,Offered,Joined,07-02-2022,07-04-2022,16-04-2022,48607,0,Suman Singh
+838,Myra Mehta,Engineer,Finance,Hired,Offered,Not Joined,15-12-2021,26-01-2022,,41074,8,Rahul Kumar
+839,Siya Bose,Technician,QA and Testing,Hired,Offered,Not Joined,13-10-2022,,,36849,4,Rahul Kumar
+840,Aarav Deshmukh,Specialist,Software Development,Final Round,Offered,Joined,25-09-2020,18-10-2020,17-12-2020,86895,6,Rahul Kumar
+841,Diya Kulkarni,Consultant,Software Development,Final Round,Rejected,Joined,18-02-2020,14-03-2020,,61224,5,Pawan Soni
+842,AdITya Iyer,Consultant,Software Development,Final Round,Rejected,Joined,26-05-2020,09-07-2020,,116406,2,Gourav Prajapati
+843,Diya Patel,Analyst,QA and Testing,Hired,Offered,Not Joined,04-01-2024,,,34850,0,Suman Singh
+844,Navya Verma,Administrator,Training,Final Round,Rejected,Joined,28-11-2023,03-01-2024,,133119,10,Rahul Kumar
+845,Sai Jain,Administrator,Finance,Hired,Offered,Joined,05-08-2022,20-08-2022,,96416,8,Suman Singh
+846,Krishna Verma,Analyst,Training,Hired,Offered,Joined,02-06-2024,08-07-2024,,40155,1,Suman Singh
+847,Ananya Naidu,Specialist,Software Development,Screening,Rejected,Joined,03-09-2020,19-09-2020,03-10-2020,48753,8,Pawan Soni
+848,Navya Nair,Specialist,Finance,Final Round,Offered,Joined,26-10-2022,19-11-2022,,49669,10,Suman Singh
+849,Anaya Reddy,Administrator,Software Development,Final Round,Offered,Not Joined,07-10-2020,28-11-2020,,125192,4,Adarsh Mishra
+850,Krishna Naidu,Consultant,QA and Testing,Screening,Rejected,Joined,03-11-2023,08-11-2023,07-01-2024,36741,4,Adarsh Mishra
+851,Reyansh Naidu,Analyst,Software Development,Final Round,Offered,Not Joined,15-09-2024,06-10-2024,,45127,8,Adarsh Mishra
+852,Aarohi Pillai,Consultant,Marketing,Final Round,Rejected,Joined,14-12-2023,07-01-2024,,104624,7,Rahul Kumar
+853,Diya Naidu,Developer,Human Resources,Final Round,Rejected,Not Joined,25-04-2024,23-06-2024,,85184,2,Suman Singh
+854,Reyansh Kapoor,Technician,Software Development,Hired,Offered,Not Joined,21-08-2024,17-10-2024,06-12-2024,91585,2,Rahul Kumar
+855,Jiya Kapoor,Manager,QA and Testing,Screening,Rejected,Not Joined,27-01-2021,24-02-2021,,102999,0,Pawan Soni
+856,Ananya Naidu,Administrator,Human Resources,Hired,Offered,Joined,11-02-2022,10-04-2022,,88837,8,Adarsh Mishra
+857,Aadhya Jain,Developer,Software Development,Screening,Offered,Joined,27-12-2023,24-01-2024,12-02-2024,78480,3,Pawan Soni
+858,Anvi Naidu,Analyst,QA and Testing,Hired,Offered,Not Joined,15-06-2023,27-06-2023,,97853,0,Suman Singh
+859,Sai Jain,Engineer,QA and Testing,Screening,Offered,Not Joined,13-06-2022,04-07-2022,22-08-2022,110671,10,Yash Pal
+860,Kabir Agarwal,Technician,Software Development,Hired,Offered,Not Joined,10-06-2020,21-06-2020,,109451,6,Suman Singh
+861,Reyansh Pillai,Consultant,Training,Hired,Offered,Joined,09-11-2021,19-11-2021,26-11-2021,134725,8,Shiksha Sharma
+862,Aarohi Chopra,Analyst,Training,Final Round,Rejected,Joined,27-08-2020,19-10-2020,,44367,5,Rahul Kumar
+863,Arjun Agarwal,Manager,QA and Testing,Hired,Offered,Joined,16-07-2023,02-08-2023,08-08-2023,66190,1,Rahul Kumar
+864,Jiya Patel,Engineer,Marketing,Hired,Offered,Joined,25-11-2024,30-11-2024,15-01-2025,145025,9,Suman Singh
+865,Krishna Pandey,Coordinator,Finance,Final Round,Offered,Not Joined,05-04-2020,13-05-2020,07-06-2020,67040,3,Suman Singh
+866,Anvi Chopra,Engineer,Support,Hired,Offered,Joined,03-11-2021,07-12-2021,,120175,4,Pawan Soni
+867,Meera Chatterjee,Technician,Human Resources,Screening,Offered,Not Joined,21-07-2024,28-08-2024,13-09-2024,117552,1,Gourav Prajapati
+868,Ira Choudhary,Analyst,Human Resources,Hired,Offered,Not Joined,13-11-2023,22-12-2023,,62426,0,Rahul Kumar
+869,Vihaan Chatterjee,Executive,Finance,Hired,Offered,Not Joined,15-03-2020,05-04-2020,18-05-2020,33796,10,Gourav Prajapati
+870,Navya Verma,Consultant,Support,Final Round,Rejected,Not Joined,07-09-2022,03-11-2022,28-12-2022,85731,1,Pawan Soni
+871,Krishna Patel,Engineer,Support,Final Round,Rejected,Joined,09-01-2022,10-02-2022,,57027,0,Pawan Soni
+872,Ira Sharma,Engineer,Marketing,Final Round,Offered,Not Joined,11-10-2024,20-10-2024,28-11-2024,102468,9,Gourav Prajapati
+873,Reyansh Kapoor,Consultant,Human Resources,Screening,Offered,Not Joined,07-09-2020,01-10-2020,05-11-2020,73450,5,Pawan Soni
+874,Vivaan Sharma,Consultant,Support,Screening,Rejected,Not Joined,24-09-2021,,,33177,4,Rahul Kumar
+875,Siya Nair,Executive,QA and Testing,Screening,Rejected,Joined,09-01-2021,,06-03-2021,122207,3,Yash Pal
+876,Vanya Jain,Manager,Software Development,Screening,Rejected,Joined,24-01-2020,18-03-2020,22-04-2020,132861,9,Pawan Soni
+877,Ishaan Siddiqui,Coordinator,Human Resources,Final Round,Rejected,Not Joined,24-09-2023,26-09-2023,,83258,0,Suman Singh
+878,Krishna Bose,Engineer,Finance,Screening,Rejected,Not Joined,23-05-2023,27-06-2023,30-07-2023,89279,6,Gourav Prajapati
+879,Myra Chatterjee,Technician,Software Development,Hired,Offered,Not Joined,13-01-2024,,18-03-2024,40962,10,Pawan Soni
+880,Prisha Iyer,Manager,Human Resources,Final Round,Rejected,Joined,07-03-2024,,,83983,6,Adarsh Mishra
+881,Prisha Deshmukh,Executive,Support,Hired,Offered,Joined,02-03-2022,23-03-2022,07-05-2022,101511,6,Gourav Prajapati
+882,Jiya Choudhary,Consultant,Software Development,Screening,Offered,Joined,08-11-2022,29-11-2022,,46683,3,Rahul Kumar
+883,Reyansh Siddiqui,Manager,Support,Final Round,Rejected,Joined,24-09-2021,02-10-2021,13-10-2021,48332,5,Suman Singh
+884,Kabir Pandey,Analyst,Training,Final Round,Rejected,Joined,10-01-2023,,15-02-2023,56799,9,Adarsh Mishra
+885,Reyansh Patel,Developer,Software Development,Screening,Rejected,Joined,09-10-2024,09-11-2024,,91668,6,Suman Singh
+886,Jiya Mehta,Consultant,Training,Final Round,Offered,Joined,23-05-2020,05-06-2020,18-06-2020,38751,3,Rahul Kumar
+887,Reyansh Agarwal,Analyst,Human Resources,Final Round,Rejected,Not Joined,12-04-2024,23-05-2024,,63390,10,Pawan Soni
+888,Reyansh Agarwal,Developer,QA and Testing,Screening,Offered,Joined,05-10-2020,12-10-2020,28-11-2020,130408,3,Rahul Kumar
+889,Vanya Agarwal,Administrator,Marketing,Final Round,Offered,Joined,25-10-2022,,,58369,8,Pawan Soni
+890,Aarav Patel,Manager,Software Development,Hired,Offered,Not Joined,05-03-2024,16-03-2024,,95585,4,Rahul Kumar
+891,Siya Choudhary,Specialist,Software Development,Screening,Rejected,Joined,13-09-2021,08-10-2021,27-11-2021,51773,0,Suman Singh
+892,Jiya Agarwal,Manager,QA and Testing,Final Round,Rejected,Joined,18-07-2021,,,91089,1,Rahul Kumar
+893,Reyansh Bose,Specialist,Software Development,Screening,Offered,Joined,20-04-2023,26-05-2023,22-07-2023,30735,10,Pawan Soni
+894,Anaya Sharma,Administrator,Training,Hired,Offered,Not Joined,12-02-2022,12-04-2022,29-04-2022,122309,4,Rahul Kumar
+895,Aarav Choudhary,Administrator,Software Development,Final Round,Rejected,Joined,02-11-2022,09-12-2022,31-01-2023,128380,0,Rahul Kumar
+896,Jiya Jain,Developer,Software Development,Hired,Offered,Not Joined,01-06-2020,11-07-2020,,88114,1,Rahul Kumar
+897,Reyansh Nair,Administrator,Finance,Hired,Offered,Not Joined,28-02-2022,04-04-2022,,106919,10,Suman Singh
+898,Diya Pandey,Engineer,Software Development,Hired,Offered,Not Joined,22-01-2024,,,66113,1,Pawan Soni
+899,Aarav Kulkarni,Analyst,Software Development,Final Round,Offered,Not Joined,06-07-2024,16-08-2024,03-10-2024,41284,10,Suman Singh
+900,AdITya Kapoor,Specialist,Finance,Screening,Offered,Joined,03-02-2020,15-02-2020,,79090,0,Pawan Soni
+901,Diya Nair,Coordinator,Finance,Screening,Offered,Not Joined,08-12-2020,,20-02-2021,53331,1,Rahul Kumar
+902,Reyansh Agarwal,Coordinator,Software Development,Final Round,Rejected,Not Joined,11-10-2021,07-11-2021,,105850,9,Rahul Kumar
+903,Meera Pandey,Developer,Support,Screening,Rejected,Joined,17-11-2022,16-12-2022,,122037,0,Suman Singh
+904,Kabir Chopra,Specialist,Software Development,Screening,Rejected,Joined,26-11-2022,09-01-2023,,58607,2,Adarsh Mishra
+905,Meera Kapoor,Technician,QA and Testing,Final Round,Rejected,Not Joined,04-01-2022,07-02-2022,22-03-2022,148131,7,Pawan Soni
+906,Aarav Kapoor,Executive,Training,Final Round,Rejected,Joined,04-12-2022,,,51331,10,Rahul Kumar
+907,Vanya Siddiqui,Administrator,Training,Screening,Rejected,Not Joined,25-03-2024,27-03-2024,,124813,5,Suman Singh
+908,Kabir Verma,Coordinator,Human Resources,Screening,Offered,Not Joined,16-06-2024,30-07-2024,,105692,5,Pawan Soni
+909,Kabir Deshmukh,Consultant,Software Development,Screening,Offered,Joined,06-01-2024,08-02-2024,19-02-2024,37051,9,Pawan Soni
+910,Siya Kapoor,Technician,Software Development,Screening,Offered,Joined,26-03-2022,18-04-2022,,40534,4,Shiksha Sharma
+911,Krishna Jain,Consultant,Software Development,Final Round,Offered,Not Joined,14-04-2021,,,102067,0,Pawan Soni
+912,Myra Iyer,Manager,Marketing,Hired,Offered,Joined,22-08-2021,16-09-2021,,67118,10,Suman Singh
+913,Aadhya Pandey,Administrator,QA and Testing,Hired,Offered,Joined,18-07-2024,23-07-2024,,137903,3,Pawan Soni
+914,AdITya Nair,Coordinator,Human Resources,Final Round,Offered,Joined,25-10-2024,20-11-2024,,74510,7,Rahul Kumar
+915,Siya Pandey,Technician,QA and Testing,Final Round,Rejected,Joined,05-07-2021,,13-08-2021,139344,4,Suman Singh
+916,Vihaan Nair,Executive,Support,Hired,Offered,Not Joined,12-02-2023,,14-05-2023,119954,4,Rahul Kumar
+917,Navya Verma,Analyst,Support,Final Round,Offered,Not Joined,21-08-2020,03-10-2020,29-10-2020,123326,9,Rahul Kumar
+918,Navya Pillai,Executive,Marketing,Screening,Offered,Joined,04-06-2024,,06-08-2024,122741,6,Yash Pal
+919,Myra Khan,Engineer,QA and Testing,Final Round,Offered,Joined,27-09-2021,06-11-2021,,36563,3,Pawan Soni
+920,Aarav Pillai,Analyst,QA and Testing,Final Round,Rejected,Not Joined,11-07-2022,,,113359,5,Shiksha Sharma
+921,Ira Bose,Coordinator,QA and Testing,Hired,Offered,Joined,12-02-2024,30-03-2024,02-04-2024,86505,9,Shiksha Sharma
+922,Anvi Reddy,Administrator,Software Development,Hired,Offered,Not Joined,23-08-2022,02-10-2022,,124871,9,Suman Singh
+923,Meera Kulkarni,Executive,Software Development,Hired,Offered,Not Joined,24-09-2023,30-09-2023,22-10-2023,40391,0,Rahul Kumar
+924,Vanya Reddy,Consultant,Software Development,Hired,Offered,Not Joined,19-04-2020,06-05-2020,,87271,7,Rahul Kumar
+925,Vanya Bose,Developer,Software Development,Final Round,Rejected,Joined,17-05-2021,29-06-2021,,84306,5,Suman Singh
+926,Meera Patel,Manager,Software Development,Hired,Offered,Not Joined,15-05-2022,23-06-2022,13-08-2022,125441,2,Suman Singh
+927,Ira Bose,Technician,Support,Hired,Offered,Not Joined,21-07-2024,29-08-2024,20-09-2024,49893,1,Suman Singh
+928,Diya Bose,Analyst,Support,Hired,Offered,Not Joined,18-04-2023,02-06-2023,,57204,0,Shiksha Sharma
+929,Diya Siddiqui,Engineer,Marketing,Screening,Offered,Not Joined,25-05-2022,15-06-2022,,130262,10,Suman Singh
+930,Siya Pillai,Developer,QA and Testing,Screening,Offered,Joined,24-09-2022,26-10-2022,,44500,10,Rahul Kumar
+931,Siya Pillai,Executive,QA and Testing,Hired,Offered,Not Joined,25-03-2021,14-05-2021,,43846,7,Pratap Mishra
+932,Siya Choudhary,Technician,QA and Testing,Final Round,Offered,Joined,18-09-2024,14-10-2024,,138772,7,Pawan Soni
+933,Vihaan Bose,Administrator,Human Resources,Final Round,Rejected,Not Joined,06-11-2023,,,59385,0,Pawan Soni
+934,Prisha Khan,Engineer,QA and Testing,Screening,Offered,Joined,17-10-2024,23-10-2024,,41923,4,Adarsh Mishra
+935,Meera Bose,Consultant,Support,Hired,Offered,Not Joined,20-12-2020,15-02-2021,07-04-2021,52965,3,Adarsh Mishra
+936,Aarav Chopra,Administrator,Marketing,Final Round,Offered,Not Joined,05-06-2021,24-06-2021,29-06-2021,90477,3,Rahul Kumar
+937,Sai Iyer,Technician,Software Development,Hired,Offered,Joined,28-06-2024,26-08-2024,,98126,5,Rahul Kumar
+938,Jiya Pillai,Manager,Support,Screening,Offered,Not Joined,26-02-2023,25-03-2023,11-04-2023,68399,4,Suman Singh
+939,Anaya Nair,Technician,Software Development,Hired,Offered,Joined,13-06-2020,29-07-2020,27-09-2020,105997,2,Suman Singh
+940,Arjun Iyer,Technician,Human Resources,Final Round,Offered,Not Joined,14-06-2021,27-07-2021,,147859,9,Shiksha Sharma
+941,Myra Patel,Technician,Support,Final Round,Rejected,Joined,11-05-2021,30-05-2021,,67805,10,Pawan Soni
+942,Kabir Kulkarni,Developer,Training,Screening,Rejected,Not Joined,19-06-2021,13-07-2021,28-08-2021,50242,4,Rahul Kumar
+943,Ishaan Nair,Coordinator,QA and Testing,Hired,Offered,Joined,10-10-2021,04-12-2021,,124521,10,Pawan Soni
+944,Arjun Naidu,Consultant,Software Development,Screening,Rejected,Not Joined,06-10-2023,29-10-2023,,52167,8,Yash Pal
+945,AdITya Patel,Coordinator,Training,Hired,Offered,Joined,13-08-2021,14-08-2021,26-09-2021,133451,1,Rahul Kumar
+946,Meera Sharma,Consultant,Support,Screening,Offered,Not Joined,16-06-2021,16-07-2021,,42955,0,Rahul Kumar
+947,Anvi Pillai,Manager,Software Development,Hired,Offered,Joined,09-02-2024,16-03-2024,20-04-2024,53944,9,Rahul Kumar
+948,Vivaan Deshmukh,Analyst,Support,Final Round,Offered,Joined,23-12-2021,22-01-2022,03-02-2022,148769,8,Rahul Kumar
+949,Krishna Naidu,Administrator,Support,Final Round,Offered,Joined,02-05-2024,16-05-2024,31-05-2024,55745,0,Suman Singh
+950,Vihaan Pillai,Administrator,Support,Screening,Rejected,Not Joined,03-08-2020,03-09-2020,16-09-2020,142871,5,Rahul Kumar
+951,Meera Deshmukh,Technician,Support,Final Round,Rejected,Not Joined,07-11-2023,15-12-2023,,96491,2,Rahul Kumar
+952,Ira Iyer,Specialist,Software Development,Screening,Rejected,Not Joined,21-05-2024,,27-06-2024,53878,5,Suman Singh
+953,Sai Kapoor,Manager,Software Development,Final Round,Rejected,Joined,17-06-2020,18-07-2020,,113608,4,Yash Pal
+954,Kabir Reddy,Analyst,QA and Testing,Screening,Rejected,Joined,25-02-2021,12-03-2021,26-03-2021,57563,10,Pawan Soni
+955,Sai Kapoor,Administrator,Software Development,Hired,Offered,Not Joined,07-03-2022,26-04-2022,22-05-2022,132204,3,Suman Singh
+956,Kabir Chatterjee,Developer,Support,Final Round,Rejected,Not Joined,16-05-2021,15-07-2021,,81582,1,Gourav Prajapati
+957,Meera Jain,Technician,Software Development,Final Round,Offered,Joined,02-07-2020,29-07-2020,21-08-2020,68639,0,Rahul Kumar
+958,Ananya Pillai,Consultant,Software Development,Hired,Offered,Not Joined,14-06-2020,04-08-2020,,61868,1,Suman Singh
+959,Aadhya Verma,Executive,Support,Screening,Rejected,Joined,16-12-2022,01-02-2023,11-03-2023,79154,2,Shivam Pandey
+960,Ira Chatterjee,Technician,Human Resources,Hired,Offered,Joined,21-01-2020,12-02-2020,,131612,4,Rahul Kumar
+961,Reyansh Pillai,Manager,QA and Testing,Hired,Offered,Not Joined,19-03-2021,08-04-2021,15-05-2021,120383,9,Rahul Kumar
+962,Jiya Patel,Specialist,QA and Testing,Final Round,Offered,Joined,28-02-2021,20-04-2021,,77474,0,Rahul Kumar
+963,Vanya Sharma,Developer,Support,Screening,Rejected,Not Joined,23-11-2021,10-12-2021,,36295,7,Rahul Kumar
+964,Vivaan Reddy,Specialist,Training,Screening,Rejected,Not Joined,01-06-2024,08-07-2024,05-08-2024,126263,4,Gourav Prajapati
+965,Ira Kapoor,Consultant,Support,Hired,Offered,Joined,18-02-2024,08-04-2024,16-04-2024,86485,0,Rahul Kumar
+966,Ananya Gupta,Developer,Finance,Screening,Rejected,Not Joined,24-08-2023,03-09-2023,15-10-2023,137506,2,Adarsh Mishra
+967,Vanya Bose,Engineer,Finance,Hired,Offered,Not Joined,19-07-2020,,08-08-2020,106595,7,Gourav Prajapati
+968,Prisha Chatterjee,Administrator,Training,Hired,Offered,Joined,21-08-2024,03-10-2024,,99916,7,Pawan Soni
+969,Ananya Iyer,Coordinator,Software Development,Final Round,Offered,Not Joined,12-09-2021,17-09-2021,,58473,0,Adarsh Mishra
+970,Siya Sharma,Technician,Human Resources,Screening,Offered,Not Joined,15-03-2020,,,56035,4,Rahul Kumar
+971,Sai Reddy,Administrator,Software Development,Screening,Offered,Joined,27-10-2023,04-11-2023,,94108,8,Pawan Soni
+972,Anaya Chatterjee,Technician,Software Development,Screening,Offered,Not Joined,07-07-2022,,,85052,0,Suman Singh
+973,AdITya Khan,Analyst,Marketing,Screening,Offered,Not Joined,12-06-2020,02-07-2020,,66007,2,Suman Singh
+974,Prisha Sharma,Developer,Software Development,Hired,Offered,Not Joined,28-03-2020,13-04-2020,,135169,4,Adarsh Mishra
+975,Sai Khan,Developer,QA and Testing,Screening,Offered,Joined,20-06-2022,17-07-2022,08-09-2022,133095,4,Pratap Mishra
+976,Meera Chatterjee,Analyst,Human Resources,Final Round,Offered,Joined,07-08-2020,27-08-2020,22-09-2020,34485,10,Adarsh Mishra
+977,Vanya Reddy,Developer,Software Development,Hired,Offered,Not Joined,18-01-2023,12-02-2023,,38693,10,Suman Singh
+978,Ira Siddiqui,Developer,Software Development,Screening,Offered,Not Joined,14-08-2023,08-10-2023,05-12-2023,63667,2,Gourav Prajapati
+979,Diya Mehta,Technician,QA and Testing,Screening,Offered,Joined,18-11-2022,12-12-2022,,48690,5,Pawan Soni
+980,Kabir Deshmukh,Manager,Human Resources,Hired,Offered,Joined,04-12-2020,19-01-2021,,123121,0,Yash Pal
+981,Ishaan Jain,Specialist,Support,Final Round,Offered,Joined,17-09-2024,24-10-2024,20-12-2024,112821,0,Pawan Soni
+982,Vivaan Iyer,Developer,Software Development,Final Round,Offered,Not Joined,01-03-2021,11-03-2021,,112406,7,Pawan Soni
+983,Ira Siddiqui,Manager,Marketing,Final Round,Rejected,Not Joined,15-04-2023,25-05-2023,,74693,1,Rahul Kumar
+984,Ananya Reddy,Analyst,Software Development,Final Round,Rejected,Joined,22-08-2024,29-08-2024,,59769,6,Rahul Kumar
+985,Arjun Chatterjee,Analyst,Software Development,Final Round,Offered,Joined,18-02-2020,04-04-2020,23-04-2020,96965,5,Shiksha Sharma
+986,Reyansh Chatterjee,Consultant,Finance,Hired,Offered,Not Joined,08-11-2021,28-12-2021,30-12-2021,99582,9,Rahul Kumar
+987,Meera Nair,Administrator,Human Resources,Screening,Offered,Not Joined,04-03-2022,17-04-2022,,82543,7,Rahul Kumar
+988,Myra Patel,Developer,Support,Final Round,Offered,Joined,14-09-2023,11-11-2023,12-12-2023,70842,9,Suman Singh
+989,Navya Jain,Developer,QA and Testing,Hired,Offered,Not Joined,03-10-2024,07-10-2024,25-11-2024,81249,8,Yash Pal
+990,Arjun Bose,Manager,Software Development,Screening,Offered,Joined,03-06-2021,18-06-2021,06-07-2021,129691,8,Rahul Kumar
+991,Anaya Mehta,Administrator,Marketing,Hired,Offered,Not Joined,04-11-2020,08-12-2020,28-12-2020,109958,4,Suman Singh
+992,Ananya Agarwal,Engineer,Support,Final Round,Offered,Not Joined,25-02-2021,25-04-2021,,123029,6,Gourav Prajapati
+993,Anvi Deshmukh,Administrator,Software Development,Final Round,Offered,Not Joined,17-04-2022,24-04-2022,30-04-2022,85269,6,Rahul Kumar
+994,Ishaan Agarwal,Consultant,Support,Final Round,Rejected,Not Joined,27-05-2020,,,135642,3,Yash Pal
+995,Navya Pandey,Analyst,Training,Screening,Rejected,Not Joined,16-10-2021,31-10-2021,08-12-2021,117498,10,Rahul Kumar
+996,Meera Mehta,Administrator,Human Resources,Hired,Offered,Not Joined,04-10-2020,11-11-2020,04-01-2021,109142,4,Suman Singh
+997,Meera Siddiqui,Technician,Marketing,Screening,Offered,Not Joined,24-12-2023,27-12-2023,19-01-2024,131925,8,Rahul Kumar
+998,Meera Patel,Manager,Training,Final Round,Offered,Not Joined,19-04-2020,01-05-2020,,137265,10,Suman Singh
+999,Vivaan Patel,Technician,Software Development,Screening,Rejected,Joined,09-04-2022,08-05-2022,28-06-2022,101732,9,Yash Pal
+1000,Aadhya Gupta,Specialist,Software Development,Screening,Offered,Not Joined,25-06-2023,17-08-2023,,124626,1,Suman Singh
+1001,Sai Bose,Coordinator,Software Development,Screening,Rejected,Not Joined,20-06-2023,22-07-2023,,77377,0,Gourav Prajapati
+1002,Prisha Kulkarni,Consultant,Training,Screening,Rejected,Joined,01-06-2021,09-06-2021,22-06-2021,56033,2,Adarsh Mishra
+1003,Diya Bose,Analyst,QA and Testing,Screening,Rejected,Not Joined,20-12-2020,17-02-2021,15-04-2021,43582,10,Gourav Prajapati
+1004,Myra Verma,Coordinator,Support,Hired,Offered,Joined,03-10-2024,24-10-2024,08-11-2024,58701,9,Rahul Kumar
+1005,Arjun Sharma,Analyst,Finance,Hired,Offered,Not Joined,21-08-2021,12-10-2021,26-10-2021,104460,3,Pawan Soni
+1006,Siya Nair,Administrator,Training,Screening,Rejected,Not Joined,28-03-2023,01-05-2023,,78526,5,Suman Singh
+1007,Jiya Jain,Specialist,Software Development,Screening,Offered,Joined,18-06-2021,,16-07-2021,96512,5,Adarsh Mishra
+1008,Vanya Iyer,Specialist,Software Development,Screening,Offered,Not Joined,04-06-2024,26-07-2024,17-09-2024,90324,1,Suman Singh
+1009,Aarav Pillai,Technician,QA and Testing,Screening,Offered,Not Joined,14-10-2023,19-10-2023,30-10-2023,38359,3,Adarsh Mishra
+1010,Anvi Sharma,Administrator,Software Development,Final Round,Offered,Not Joined,09-12-2020,15-01-2021,,100568,4,Adarsh Mishra
+1011,Anaya Khan,Developer,Marketing,Screening,Rejected,Joined,19-04-2022,10-06-2022,,128889,5,Yash Pal
+1012,AdITya Reddy,Executive,Support,Hired,Offered,Joined,25-02-2024,01-03-2024,10-04-2024,53506,6,Shiksha Sharma
+1013,Ananya Gupta,Manager,Training,Screening,Rejected,Not Joined,16-11-2020,02-01-2021,,141052,8,Suman Singh
+1014,Jiya Khan,Analyst,Marketing,Hired,Offered,Not Joined,10-02-2021,05-03-2021,,114833,8,Rahul Kumar
+1015,Ishaan Sharma,Administrator,Human Resources,Screening,Offered,Not Joined,25-08-2022,,,99352,0,Suman Singh
+1016,Prisha Naidu,Specialist,Training,Hired,Offered,Joined,13-06-2020,03-07-2020,,100151,3,Yash Pal
+1017,Arjun Deshmukh,Specialist,Human Resources,Hired,Offered,Joined,28-02-2022,13-04-2022,11-06-2022,88340,0,Rahul Kumar
+1018,Vihaan Kulkarni,Analyst,QA and Testing,Final Round,Offered,Joined,18-01-2024,15-03-2024,,109102,3,Pawan Soni
+1019,Ira Bose,Technician,QA and Testing,Screening,Offered,Not Joined,15-06-2024,14-08-2024,,137162,1,Rahul Kumar
+1020,Aadhya Pandey,Administrator,Software Development,Screening,Offered,Not Joined,02-07-2021,25-07-2021,29-07-2021,122039,1,Suman Singh
+1021,Arjun Siddiqui,Coordinator,Human Resources,Screening,Rejected,Not Joined,07-11-2024,26-11-2024,,33123,3,Suman Singh
+1022,Siya Kulkarni,Technician,Training,Final Round,Offered,Joined,18-06-2020,,,146928,9,Suman Singh
+1023,Vivaan Kulkarni,Executive,Software Development,Final Round,Offered,Not Joined,02-12-2022,06-01-2023,08-01-2023,53368,1,Suman Singh
+1024,Krishna Patel,Manager,Support,Hired,Offered,Joined,04-04-2020,04-05-2020,16-05-2020,35928,8,Rahul Kumar
+1025,Aarav Iyer,Specialist,Software Development,Final Round,Offered,Not Joined,04-12-2021,02-02-2022,,50437,9,Pawan Soni
+1026,Navya Pandey,Administrator,Marketing,Screening,Rejected,Joined,20-04-2024,02-06-2024,19-06-2024,149765,8,Pawan Soni
+1027,Navya Bose,Analyst,Training,Hired,Offered,Not Joined,01-12-2023,28-12-2023,19-02-2024,81834,0,Rahul Kumar
+1028,AdITya Nair,Manager,Human Resources,Hired,Offered,Joined,22-03-2023,,,127005,3,Pawan Soni
+1029,Prisha Agarwal,Manager,QA and Testing,Hired,Offered,Joined,18-05-2023,06-06-2023,25-06-2023,95269,9,Rahul Kumar
+1030,Vihaan Mehta,Coordinator,Software Development,Final Round,Offered,Joined,02-09-2021,03-10-2021,03-11-2021,61686,8,Yash Pal
+1031,Myra Deshmukh,Engineer,Marketing,Screening,Offered,Joined,15-06-2024,02-08-2024,,31862,6,Rahul Kumar
+1032,Reyansh Nair,Engineer,Human Resources,Final Round,Offered,Not Joined,06-05-2022,29-05-2022,,112210,3,Rahul Kumar
+1033,Myra Gupta,Coordinator,Software Development,Screening,Rejected,Joined,24-11-2022,,25-12-2022,37433,9,Pawan Soni
+1034,Vanya Kapoor,Specialist,Software Development,Hired,Offered,Joined,17-07-2020,21-08-2020,,30448,4,Shiksha Sharma
+1035,Meera Verma,Administrator,Software Development,Hired,Offered,Not Joined,04-10-2023,28-11-2023,13-12-2023,67023,7,Shiksha Sharma
+1036,Vanya Agarwal,Specialist,Training,Final Round,Rejected,Joined,08-12-2023,21-01-2024,22-02-2024,59339,5,Rahul Kumar
+1037,Ishaan Kapoor,Specialist,Software Development,Hired,Offered,Not Joined,24-11-2022,,,123151,8,Shivam Pandey
+1038,Reyansh Bose,Executive,Human Resources,Final Round,Rejected,Not Joined,27-03-2023,07-05-2023,,74276,2,Rahul Kumar
+1039,Krishna Chopra,Coordinator,Marketing,Hired,Offered,Not Joined,24-03-2023,27-04-2023,11-05-2023,83504,9,Gourav Prajapati
+1040,Vihaan Pillai,Technician,Support,Screening,Rejected,Joined,13-04-2022,,,146644,10,Rahul Kumar
+1041,Aarav Chopra,Executive,Human Resources,Screening,Offered,Not Joined,14-09-2023,26-09-2023,25-10-2023,130825,10,Rahul Kumar
+1042,Arjun Khan,Specialist,QA and Testing,Hired,Offered,Not Joined,26-10-2023,17-12-2023,30-12-2023,110258,3,Adarsh Mishra
+1043,Vivaan Patel,Manager,Support,Final Round,Offered,Joined,03-02-2020,05-02-2020,,38653,3,Yash Pal
+1044,Myra Choudhary,Specialist,QA and Testing,Hired,Offered,Not Joined,19-06-2024,,09-10-2024,148071,5,Suman Singh
+1045,Vanya Khan,Developer,Support,Screening,Rejected,Not Joined,04-07-2021,08-08-2021,06-10-2021,44858,1,Rahul Kumar
+1046,Siya Choudhary,Executive,Support,Hired,Offered,Not Joined,25-02-2023,28-02-2023,09-03-2023,53833,8,Gourav Prajapati
+1047,Ananya Gupta,Specialist,Finance,Hired,Offered,Not Joined,22-08-2020,28-09-2020,21-10-2020,44545,2,Gourav Prajapati
+1048,AdITya Chatterjee,Administrator,Support,Final Round,Offered,Not Joined,23-05-2022,13-07-2022,,63123,8,Rahul Kumar
+1049,Aarav Choudhary,Specialist,Finance,Hired,Offered,Not Joined,17-05-2024,14-07-2024,11-09-2024,74239,2,Pawan Soni
+1050,Diya Gupta,Specialist,Support,Hired,Offered,Joined,25-12-2022,06-02-2023,,79895,3,Pawan Soni
+1051,Diya Agarwal,Executive,Support,Final Round,Rejected,Not Joined,13-07-2023,16-07-2023,,75382,1,Pawan Soni
+1052,AdITya Siddiqui,Manager,Software Development,Screening,Rejected,Joined,16-04-2024,,,129885,6,Gourav Prajapati
+1053,Arjun Naidu,Coordinator,QA and Testing,Hired,Offered,Joined,06-02-2021,02-03-2021,07-03-2021,74713,10,Suman Singh
+1054,Meera Patel,Manager,Training,Hired,Offered,Joined,21-10-2021,,15-01-2022,40637,7,Pawan Soni
+1055,Diya Iyer,Coordinator,Software Development,Screening,Offered,Not Joined,03-12-2020,04-12-2020,01-01-2021,92396,8,Pawan Soni
+1056,Kabir Pandey,Administrator,QA and Testing,Hired,Offered,Joined,23-10-2023,04-11-2023,,55915,10,Adarsh Mishra
+1057,Vihaan Gupta,Coordinator,Software Development,Final Round,Offered,Joined,19-09-2021,02-10-2021,16-11-2021,68891,9,Suman Singh
+1058,Ishaan Chatterjee,Coordinator,Software Development,Hired,Offered,Not Joined,10-11-2024,24-11-2024,,38229,8,Pratap Mishra
+1059,Navya Gupta,Technician,Support,Screening,Offered,Not Joined,02-12-2022,11-01-2023,01-03-2023,77379,5,Adarsh Mishra
+1060,Myra Chatterjee,Technician,Software Development,Final Round,Rejected,Not Joined,24-05-2024,17-07-2024,07-08-2024,54941,10,Rahul Kumar
+1061,Navya Siddiqui,Technician,Support,Final Round,Rejected,Not Joined,02-03-2024,16-04-2024,,128376,10,Adarsh Mishra
+1062,Ananya Bose,Developer,Software Development,Final Round,Offered,Not Joined,28-01-2023,06-02-2023,29-03-2023,52646,3,Suman Singh
+1063,Siya Choudhary,Developer,Training,Final Round,Offered,Joined,07-03-2024,14-03-2024,,138760,8,Adarsh Mishra
+1064,Aadhya Khan,Executive,QA and Testing,Hired,Offered,Joined,16-04-2021,25-05-2021,,72373,9,Rahul Kumar
+1065,Aadhya Chopra,Executive,Finance,Hired,Offered,Joined,05-05-2024,21-05-2024,,111065,3,Suman Singh
+1066,Kabir Patel,Specialist,Software Development,Screening,Offered,Not Joined,20-02-2024,29-02-2024,,32321,6,Rahul Kumar
+1067,Jiya Iyer,Specialist,Support,Final Round,Rejected,Not Joined,08-07-2022,22-07-2022,,55477,8,Suman Singh
+1068,Jiya Naidu,Administrator,Human Resources,Hired,Offered,Not Joined,19-11-2022,17-01-2023,,145438,0,Suman Singh
+1069,Anaya Choudhary,Technician,Training,Screening,Rejected,Joined,20-03-2023,10-04-2023,16-04-2023,133714,4,Suman Singh
+1070,Aadhya Iyer,Coordinator,QA and Testing,Hired,Offered,Not Joined,28-06-2021,17-08-2021,,49152,10,Suman Singh
+1071,Ira Chopra,Coordinator,Support,Screening,Offered,Not Joined,11-08-2022,19-09-2022,15-11-2022,55551,3,Rahul Kumar
+1072,Aarav Kulkarni,Analyst,Software Development,Hired,Offered,Joined,14-07-2021,,20-10-2021,85236,8,Shiksha Sharma
+1073,Myra Nair,Executive,Software Development,Hired,Offered,Not Joined,25-08-2022,,,66169,9,Rahul Kumar
+1074,Arjun Patel,Engineer,QA and Testing,Hired,Offered,Not Joined,10-08-2024,21-08-2024,,124437,5,Rahul Kumar
+1075,Ananya Bose,Developer,Finance,Screening,Offered,Not Joined,21-01-2024,18-02-2024,31-03-2024,35161,4,Adarsh Mishra
+1076,Arjun Jain,Manager,Software Development,Hired,Offered,Joined,03-08-2021,02-10-2021,07-10-2021,74323,1,Rahul Kumar
+1077,Siya Pillai,Engineer,Software Development,Final Round,Rejected,Joined,25-06-2023,30-06-2023,,57165,9,Adarsh Mishra
+1078,Ishaan Iyer,Coordinator,Marketing,Screening,Offered,Joined,25-02-2021,25-04-2021,20-06-2021,92743,6,Suman Singh
+1079,Arjun Reddy,Specialist,QA and Testing,Final Round,Rejected,Joined,25-04-2020,10-05-2020,,33081,7,Adarsh Mishra
+1080,Vivaan Chopra,Coordinator,Software Development,Final Round,Offered,Not Joined,02-02-2024,15-02-2024,24-03-2024,78249,0,Adarsh Mishra
+1081,Meera Deshmukh,Analyst,Support,Screening,Rejected,Not Joined,05-04-2023,,,109641,6,Adarsh Mishra
+1082,Siya Mehta,Analyst,Software Development,Hired,Offered,Not Joined,11-04-2022,08-06-2022,,80784,7,Pawan Soni
+1083,Anvi Kulkarni,Coordinator,Marketing,Final Round,Rejected,Not Joined,25-04-2021,,19-07-2021,104297,0,Rahul Kumar
+1084,Reyansh Kapoor,Specialist,Training,Final Round,Rejected,Not Joined,01-09-2021,21-09-2021,,128809,4,Gourav Prajapati
+1085,Diya Iyer,Manager,Finance,Hired,Offered,Joined,18-08-2023,26-09-2023,15-10-2023,65944,0,Suman Singh
+1086,Sai Mehta,Engineer,Finance,Hired,Offered,Not Joined,13-08-2022,29-09-2022,,66697,9,Rahul Kumar
+1087,Vihaan Kulkarni,Developer,Software Development,Final Round,Offered,Joined,25-05-2020,28-05-2020,25-07-2020,119368,5,Yash Pal
+1088,Anvi Iyer,Technician,Finance,Screening,Rejected,Not Joined,01-03-2023,,15-03-2023,38294,6,Rahul Kumar
+1089,Aarav Verma,Technician,Training,Final Round,Rejected,Joined,13-02-2021,29-03-2021,23-04-2021,35771,4,Gourav Prajapati
+1090,Reyansh Agarwal,Engineer,QA and Testing,Final Round,Offered,Joined,10-12-2022,26-01-2023,26-02-2023,115220,6,Rahul Kumar
+1091,Krishna Verma,Analyst,Finance,Hired,Offered,Not Joined,18-07-2024,01-09-2024,03-10-2024,78924,6,Rahul Kumar
+1092,Meera Chatterjee,Executive,Software Development,Screening,Rejected,Not Joined,05-09-2024,26-09-2024,,68331,4,Pratap Mishra
+1093,Navya Gupta,Administrator,QA and Testing,Hired,Offered,Not Joined,18-11-2023,15-12-2023,,100675,2,Shiksha Sharma
+1094,Meera Jain,Administrator,QA and Testing,Screening,Offered,Joined,17-06-2020,15-08-2020,10-10-2020,138093,5,Gourav Prajapati
+1095,Vivaan Reddy,Manager,Software Development,Hired,Offered,Joined,04-07-2020,06-08-2020,10-09-2020,133248,6,Adarsh Mishra
+1096,Aarohi Pillai,Executive,Marketing,Screening,Rejected,Joined,11-02-2023,30-03-2023,23-05-2023,120151,7,Suman Singh
+1097,Jiya Chopra,Engineer,Training,Screening,Offered,Not Joined,21-11-2021,,,70180,2,Pawan Soni
+1098,Meera Mehta,Coordinator,Support,Hired,Offered,Not Joined,27-05-2023,,,131720,9,Rahul Kumar
+1099,Aarohi Pandey,Executive,Software Development,Screening,Rejected,Not Joined,15-05-2020,23-05-2020,,86167,8,Adarsh Mishra
+1100,Vivaan Choudhary,Specialist,Training,Hired,Offered,Not Joined,02-10-2024,15-11-2024,,100650,9,Adarsh Mishra
+1101,Aarohi Pandey,Technician,Software Development,Final Round,Offered,Not Joined,19-12-2023,28-01-2024,,63050,5,Yash Pal
+1102,Meera Mehta,Technician,Marketing,Screening,Rejected,Joined,24-04-2020,17-06-2020,,72319,9,Suman Singh
+1103,Vanya Khan,Manager,QA and Testing,Screening,Offered,Joined,28-12-2024,26-01-2025,,95807,2,Suman Singh
+1104,Ira Nair,Engineer,QA and Testing,Screening,Offered,Not Joined,23-05-2023,,,141877,10,Rahul Kumar
+1105,Vihaan Pandey,Developer,Marketing,Hired,Offered,Not Joined,20-05-2020,11-06-2020,,131677,5,Shiksha Sharma
+1106,Ananya Pandey,Administrator,Software Development,Final Round,Offered,Not Joined,10-01-2023,22-01-2023,06-02-2023,45216,1,Rahul Kumar
+1107,Prisha Sharma,Technician,Software Development,Final Round,Rejected,Joined,05-03-2021,22-04-2021,31-05-2021,78272,8,Pratap Mishra
+1108,Ira Khan,Manager,Marketing,Hired,Offered,Not Joined,02-08-2023,20-08-2023,17-09-2023,61880,4,Gourav Prajapati
+1109,Sai Pandey,Coordinator,QA and Testing,Screening,Rejected,Not Joined,06-01-2020,12-01-2020,18-02-2020,116017,3,Gourav Prajapati
+1110,Krishna Chopra,Developer,Support,Hired,Offered,Joined,04-07-2024,09-08-2024,12-08-2024,31594,3,Rahul Kumar
+1111,Aarav Kulkarni,Developer,QA and Testing,Hired,Offered,Joined,09-11-2024,,,92748,0,Shiksha Sharma
+1112,Meera Pillai,Manager,Software Development,Screening,Offered,Joined,13-03-2020,18-04-2020,,97290,10,Adarsh Mishra
+1113,Navya Nair,Specialist,QA and Testing,Final Round,Rejected,Joined,08-03-2024,18-04-2024,,72006,0,Rahul Kumar
+1114,Aarohi Bose,Technician,Software Development,Hired,Offered,Not Joined,22-04-2020,08-06-2020,07-08-2020,146489,6,Rahul Kumar
+1115,Aadhya Gupta,Executive,Marketing,Hired,Offered,Joined,20-04-2021,24-05-2021,12-06-2021,131849,4,Rahul Kumar
+1116,Myra Nair,Specialist,Human Resources,Screening,Rejected,Not Joined,09-06-2020,05-07-2020,,93935,9,Yash Pal
+1117,Vanya Deshmukh,Administrator,Software Development,Final Round,Rejected,Joined,18-12-2024,16-02-2025,01-04-2025,99827,6,Shivam Pandey
+1118,Kabir Deshmukh,Consultant,QA and Testing,Final Round,Rejected,Joined,09-11-2022,08-01-2023,,70153,4,Yash Pal
+1119,Ishaan Deshmukh,Executive,Software Development,Screening,Offered,Joined,22-09-2022,19-10-2022,06-11-2022,54899,9,Pawan Soni
+1120,Myra Naidu,Consultant,Software Development,Hired,Offered,Joined,11-09-2024,25-09-2024,16-11-2024,138840,5,Suman Singh
+1121,Krishna Bose,Technician,Human Resources,Final Round,Rejected,Not Joined,26-11-2021,,21-01-2022,63100,9,Suman Singh
+1122,Reyansh Agarwal,Technician,Marketing,Screening,Rejected,Not Joined,13-09-2023,,,86060,2,Suman Singh
+1123,Ananya Mehta,Developer,Marketing,Hired,Offered,Joined,16-02-2024,,,44085,7,Pawan Soni
+1124,Reyansh Verma,Administrator,Software Development,Hired,Offered,Not Joined,24-02-2021,09-04-2021,07-05-2021,67249,6,Pawan Soni
+1125,Prisha Agarwal,Consultant,Training,Hired,Offered,Joined,08-04-2021,18-05-2021,,58819,9,Suman Singh
+1126,Sai Gupta,Administrator,QA and Testing,Screening,Rejected,Not Joined,18-04-2023,,,83267,0,Rahul Kumar
+1127,Sai Iyer,Analyst,Human Resources,Hired,Offered,Not Joined,20-08-2021,31-08-2021,28-10-2021,141357,1,Rahul Kumar
+1128,AdITya Khan,Technician,Software Development,Hired,Offered,Not Joined,08-04-2023,,09-06-2023,56886,0,Rahul Kumar
+1129,Aadhya Reddy,Administrator,QA and Testing,Final Round,Offered,Not Joined,11-09-2023,,,139699,4,Pawan Soni
+1130,Aarohi Bose,Analyst,Training,Screening,Rejected,Joined,07-07-2021,21-07-2021,11-08-2021,33181,9,Suman Singh
+1131,Siya Naidu,Specialist,QA and Testing,Final Round,Offered,Not Joined,23-08-2020,14-10-2020,,85592,9,Rahul Kumar
+1132,Aarohi Agarwal,Technician,Software Development,Hired,Offered,Joined,12-05-2023,27-05-2023,14-06-2023,77785,0,Suman Singh
+1133,AdITya Deshmukh,Consultant,QA and Testing,Final Round,Offered,Not Joined,23-02-2021,23-04-2021,,142525,3,Suman Singh
+1134,Sai Reddy,Manager,Human Resources,Hired,Offered,Joined,08-03-2022,04-04-2022,,85478,3,Suman Singh
+1135,Jiya Gupta,Manager,Software Development,Hired,Offered,Joined,26-01-2021,08-02-2021,19-03-2021,102540,10,Rahul Kumar
+1136,Krishna Sharma,Specialist,Support,Hired,Offered,Joined,18-03-2021,17-05-2021,29-05-2021,81616,8,Shivam Pandey
+1137,Arjun Iyer,Administrator,Marketing,Final Round,Rejected,Not Joined,16-01-2021,26-01-2021,,44401,3,Gourav Prajapati
+1138,AdITya Bose,Developer,Human Resources,Final Round,Rejected,Not Joined,20-11-2021,08-01-2022,,100971,8,Shivam Pandey
+1139,Vanya Naidu,Executive,QA and Testing,Final Round,Rejected,Joined,21-08-2024,24-09-2024,,135491,3,Pawan Soni
+1140,Kabir Mehta,Administrator,QA and Testing,Final Round,Rejected,Not Joined,20-02-2021,16-03-2021,,56044,7,Adarsh Mishra
+1141,Arjun Siddiqui,Administrator,Software Development,Screening,Offered,Not Joined,25-07-2021,04-09-2021,,148030,2,Adarsh Mishra
+1142,Jiya Siddiqui,Specialist,Support,Final Round,Offered,Not Joined,16-05-2023,11-06-2023,,49075,8,Suman Singh
+1143,Siya Nair,Executive,Software Development,Screening,Rejected,Not Joined,02-06-2022,25-06-2022,25-07-2022,35311,2,Suman Singh
+1144,Anaya Kapoor,Engineer,Software Development,Hired,Offered,Joined,11-06-2020,,,98300,1,Gourav Prajapati
+1145,Vanya Siddiqui,Specialist,Software Development,Final Round,Rejected,Not Joined,13-08-2020,,26-10-2020,46160,1,Adarsh Mishra
+1146,Diya Pillai,Administrator,Support,Hired,Offered,Not Joined,25-07-2023,27-08-2023,30-08-2023,125872,7,Pawan Soni
+1147,AdITya Deshmukh,Executive,QA and Testing,Final Round,Offered,Joined,25-03-2021,,,47424,2,Pawan Soni
+1148,Arjun Khan,Consultant,Training,Final Round,Offered,Joined,07-10-2023,03-11-2023,,34910,8,Pawan Soni
+1149,Sai Pandey,Technician,Software Development,Hired,Offered,Not Joined,08-02-2023,10-03-2023,08-05-2023,141489,9,Suman Singh
+1150,Anvi Patel,Specialist,Marketing,Hired,Offered,Joined,18-10-2022,23-11-2022,,93359,2,Rahul Kumar
+1151,Siya Verma,Administrator,Software Development,Final Round,Offered,Joined,10-09-2022,12-10-2022,28-11-2022,58698,7,Pawan Soni
+1152,Anaya Chatterjee,Executive,Training,Final Round,Rejected,Not Joined,04-03-2023,18-04-2023,,111665,8,Gourav Prajapati
+1153,Navya Jain,Executive,QA and Testing,Hired,Offered,Not Joined,02-06-2020,,,145226,2,Pawan Soni
+1154,Krishna Kulkarni,Coordinator,Human Resources,Hired,Offered,Joined,07-10-2023,02-11-2023,30-11-2023,141830,2,Pawan Soni
+1155,Aarav Jain,Consultant,Training,Final Round,Offered,Joined,03-02-2020,25-03-2020,,53274,1,Shiksha Sharma
+1156,Diya Chatterjee,Administrator,Human Resources,Hired,Offered,Not Joined,27-05-2021,20-06-2021,,106397,5,Pawan Soni
+1157,Reyansh Kapoor,Executive,Software Development,Final Round,Offered,Not Joined,01-10-2020,23-11-2020,22-01-2021,98955,1,Rahul Kumar
+1158,Vanya Agarwal,Developer,Support,Screening,Offered,Not Joined,05-05-2024,10-05-2024,09-06-2024,34198,0,Rahul Kumar
+1159,Myra Chatterjee,Consultant,Support,Final Round,Rejected,Not Joined,06-11-2022,21-12-2022,,141034,5,Shiksha Sharma
+1160,Jiya Jain,Engineer,Training,Hired,Offered,Joined,08-04-2022,,,49572,6,Rahul Kumar
+1161,Krishna Choudhary,Executive,Support,Hired,Offered,Joined,23-06-2022,14-07-2022,21-08-2022,77737,6,Suman Singh
+1162,Vivaan Agarwal,Executive,QA and Testing,Final Round,Rejected,Not Joined,12-04-2023,17-04-2023,21-04-2023,88931,9,Suman Singh
+1163,Ananya Naidu,Developer,QA and Testing,Hired,Offered,Not Joined,23-12-2022,,04-03-2023,73850,0,Adarsh Mishra
+1164,Aadhya Agarwal,Coordinator,QA and Testing,Hired,Offered,Joined,08-03-2020,10-04-2020,19-05-2020,123240,0,Adarsh Mishra
+1165,Aadhya Reddy,Coordinator,Support,Hired,Offered,Not Joined,11-06-2024,12-06-2024,19-06-2024,107396,8,Rahul Kumar
+1166,Anvi Naidu,Consultant,Human Resources,Screening,Rejected,Joined,26-12-2023,29-12-2023,,107243,2,Suman Singh
+1167,Vanya Naidu,Coordinator,QA and Testing,Screening,Offered,Not Joined,15-07-2023,12-09-2023,08-11-2023,141694,1,Shiksha Sharma
+1168,Ishaan Sharma,Consultant,Training,Hired,Offered,Not Joined,19-11-2021,06-12-2021,,36260,10,Pratap Mishra
+1169,Navya Sharma,Consultant,Human Resources,Screening,Rejected,Joined,27-09-2022,24-11-2022,29-12-2022,100004,10,Suman Singh
+1170,Ananya Kapoor,Consultant,Software Development,Hired,Offered,Not Joined,13-04-2020,,05-07-2020,92896,4,Pawan Soni
+1171,Sai Pandey,Analyst,Software Development,Final Round,Rejected,Joined,24-03-2020,10-05-2020,,51483,9,Suman Singh
+1172,Ira Nair,Manager,Support,Hired,Offered,Joined,10-05-2020,14-06-2020,,130969,0,Rahul Kumar
+1173,Vihaan Reddy,Consultant,Training,Screening,Offered,Not Joined,25-02-2021,26-03-2021,,40914,0,Rahul Kumar
+1174,Reyansh Pillai,Analyst,Human Resources,Hired,Offered,Joined,06-06-2020,,,98430,4,Yash Pal
+1175,Siya Khan,Manager,Software Development,Screening,Rejected,Joined,12-11-2023,,06-12-2023,93363,0,Suman Singh
+1176,Myra Bose,Specialist,Software Development,Final Round,Offered,Joined,25-11-2021,,,104834,0,Rahul Kumar
+1177,Navya Sharma,Specialist,Human Resources,Final Round,Offered,Joined,12-11-2020,24-12-2020,15-01-2021,103585,10,Suman Singh
+1178,Ira Patel,Manager,Software Development,Hired,Offered,Joined,16-03-2024,17-04-2024,23-05-2024,68463,10,Shiksha Sharma
+1179,Jiya Agarwal,Executive,Support,Final Round,Rejected,Not Joined,10-01-2020,22-02-2020,02-03-2020,77682,4,Suman Singh
+1180,Aarav Sharma,Analyst,Software Development,Hired,Offered,Joined,24-05-2023,13-06-2023,10-07-2023,141616,9,Rahul Kumar
+1181,Ananya Patel,Manager,QA and Testing,Screening,Offered,Joined,04-02-2022,21-02-2022,,140292,0,Rahul Kumar
+1182,Kabir Pillai,Analyst,Software Development,Final Round,Offered,Not Joined,28-10-2024,12-12-2024,,116231,10,Adarsh Mishra
+1183,Vihaan Naidu,Engineer,Software Development,Final Round,Offered,Not Joined,02-12-2022,11-12-2022,,44010,0,Pawan Soni
+1184,Krishna Gupta,Specialist,Support,Hired,Offered,Joined,18-10-2021,15-12-2021,04-02-2022,46601,1,Rahul Kumar
